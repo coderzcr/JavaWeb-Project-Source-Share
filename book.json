@@ -1,6 +1,6 @@
 {
  
-	"plugins": ["-lunr","-search","back-to-top-button","code","copy-code-button","search-pro","github","splitter","insert-logo"],
+	"plugins": ["-lunr","-search","back-to-top-button","code","copy-code-button","search-pro","github","splitter","insert-logo","chapter-fold"],
 	 "pluginsConfig": {
       "code": {
         "copyButtons": false
