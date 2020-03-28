@@ -1,9 +1,7 @@
 # JavaWeb项目共享
 * [前言](README.md)
 * [作者](README.md)
-* 难度分级说明
-	* [前端说明]()
-	* [后端说明]()
+* [难度等级说明](README.md)
 * 简单(★☆☆☆)
     * [从命令行进行测试](Chapter1/CommandLine.md)
     * [Monkey](Chapter1/Monkey.md)
