@@ -1,5 +1,17 @@
 {
  
-	"plugins": ["-lunr"]
+	"plugins": ["-lunr","-search","back-to-top-button","code","copy-code-button","search-pro","github","splitter","insert-logo"],
+	 "pluginsConfig": {
+      "code": {
+        "copyButtons": false
+      },
+      "github": {
+            "url": "https://github.com/coderzcr"
+        },
+      "insert-logo": {
+        "url": "http://coderzcr.gitee.io/sensor-java-picture/pictures/zcr's blog.png",
+        "style": "background: none; max-height: 30px; min-height: 30px"
+      } 
+    }
 }
  

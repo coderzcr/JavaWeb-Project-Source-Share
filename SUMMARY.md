@@ -10,7 +10,7 @@
 	* [JSP+Servlet+JDBC实现的学生信息管理系统](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)
 * 简单(★★☆☆☆)
     * [JSP+Servlet+JDBC+C3P0实现的图书馆管理系统](easy/JSP+Servlet+C3P0+Mysql实现的图书馆管理系统.md)
-    * [JSP+Servlet+JDBC+C3P0实现的网上蛋糕店.md](easy/JSP+Servlet+C3P0+Mysql实现的网上蛋糕店.md)
+    * [JSP+Servlet+JDBC+C3P0实现的网上蛋糕店](easy/JSP+Servlet+C3P0+Mysql实现的网上蛋糕店.md)
     * [JSP+Servlet+JDBC+C3P0实现的YCU movies电影网站](easy/JSP+Servlet+C3P0+Mysql实现的YCUMovies电影网站.md)
     * [JSP+Servlet+JDBC+DBCP2实现在线购书系统](easy/JSP+Servlet+JDBC+DBCP2实现在线购书系统.md)
     * [Maven+JSP+Servlet+JDBC实现的dbExper宾馆管理系统](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)
