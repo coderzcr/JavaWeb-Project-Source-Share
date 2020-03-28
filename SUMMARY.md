@@ -1,6 +1,10 @@
-# Summary
-* [Introduction](README.md)
-* Part I
+# JavaWeb项目共享
+* [前言](README.md)
+* [作者](README.md)
+* 难度分级说明
+	* [前端说明]()
+	* [后端说明]()
+* 简单(★☆☆☆)
     * [从命令行进行测试](Chapter1/CommandLine.md)
     * [Monkey](Chapter1/Monkey.md)
     * [monkeyrunner 参考](Chapter1/MonkeyrunnerReference.md)
@@ -8,8 +12,10 @@
         * [MonkeyDevice](Chapter1/MonkeyDevice.md)
         * [MonkeyImage](Chapter1/MonkeyImage.md)
         * [MonkeyRunner](Chapter1/MonkeyRunner.md)
-* Part II
+* 中等(★★☆☆)
     * [Introduction](Chapter2/c1.md)
     * [Introduction](Chapter2/c2.md)
     * [Introduction](Chapter2/c3.md)
     * [Introduction](Chapter2/c4.md)
+* 困难(★★★☆)
+* 艰难(★★★★)
