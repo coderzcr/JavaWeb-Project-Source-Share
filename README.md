@@ -1,5 +1,7 @@
 # 前言
 
+**[GITBOOK版本，更方便阅读](https://coderzcr.github.io/JavaWeb-Project-Source-Share)**
+
 ## 创建原因
 
 大家好，我是一个Java后端开发，加上实习经历已经工作4年。
@@ -27,6 +29,8 @@
 ## 分享内容
 
 🌱🚀分享基于Servlet、SSH、SSM、SpringBoot等流行技术实现的JavaWeb项目。
+
+[目录](SUMMARY.md)
 
 ## 声明
 
