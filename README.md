@@ -28,4 +28,17 @@
 
 🌱🚀分享基于Servlet、SSH、SSM、SpringBoot等流行技术实现的JavaWeb项目。
 
+## 声明
+
+- 该项目收集于gitee或github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流，若作者不许可，可以联系我。
+
+- **若本仓库中分享的项目无法正常运行或有技术问题，可以联系我协助**。
+
+---
+
+欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
+
+<center>
+    <img src="http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif" style="width: 100px;">
+</center>
 
