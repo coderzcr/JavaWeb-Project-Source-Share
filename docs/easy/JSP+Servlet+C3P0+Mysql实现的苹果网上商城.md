@@ -87,7 +87,7 @@ https://github.com/gpengDemo/Estore.git
 
 ---
 
-本篇已收录于个人GitHub仓库[https://coderzcr.github.io/JavaWeb-Project-Source-Share/](https://coderzcr.github.io/JavaWeb-Project-Source-Share/)，欢迎Star。
+本篇已收录于个人GitHub仓库[https://github.com/coderzcr/JavaWeb-Project-Source-Share](https://github.com/coderzcr/JavaWeb-Project-Source-Share)，欢迎Star。
 
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
