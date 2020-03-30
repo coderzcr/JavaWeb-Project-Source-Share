@@ -11,7 +11,7 @@
 ![doge](https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3244848201,3163658525&fm=26&gp=0.jpg)
 本系统基于**JSP+Servlet+Jdbc**的学生信息管理系统。涉及技术少，易于理解，适合**JavaWeb初学者**学习使用。
 
-**难度等级：简单**
+**难度等级：新手**
 
 ## 技术栈
 ### 编辑器

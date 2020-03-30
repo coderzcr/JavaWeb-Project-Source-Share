@@ -5,7 +5,7 @@
 ## 项目简介
 >项目来源于：[https://gitee.com/chenlinSir/CloudDemo-servlet](https://gitee.com/chenlinSir/CloudDemo-servlet)
 
-**难度等级：简单**
+**难度等级：新手**
 
 基于**JSP+Servlet+Jdbc**的云端汽修后台管理系统。涉及技术少，易于理解，适合**JavaWeb初学者**学习使用。
 
