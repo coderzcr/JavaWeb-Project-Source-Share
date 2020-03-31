@@ -12,8 +12,6 @@
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-brightgreen.svg" alt="公众号"></a>
 </p>
 
-# 前言
-
 ## 阅读
 
 **[线上版本阅读更清晰](https://coderzcr.github.io/JavaWeb-Project-Source-Share)**
