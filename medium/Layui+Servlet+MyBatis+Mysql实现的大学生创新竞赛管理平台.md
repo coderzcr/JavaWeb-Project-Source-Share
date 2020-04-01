@@ -8,7 +8,7 @@
 >提取码：lro4
 
 
-本系统基于**JSP+Servlet+MyBatis+Mysql**。只使用了企业级ORM框架MyBatis，涉及技术少，非常适合**MyBatis入门者**提升学习使用。
+本系统基于**Layui+Servlet+MyBatis+Mysql**。只使用了企业级ORM框架MyBatis，涉及技术少，非常适合**MyBatis入门者**提升学习使用。
 
 **难度等级：中等**
 
@@ -26,7 +26,7 @@ Eclipse Version: 2019-12 (4.14.0)
 
 ### 后端技术
 
-Jsp+Servlet
+Servlet
 
 ORM框架：MyBatis
 
