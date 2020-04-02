@@ -60,9 +60,10 @@
     * [JSP+Servlet+JDBC+DBCP2实现在线购书系统](easy/JSP+Servlet+JDBC+DBCP2实现在线购书系统.md)
     * [JSP+Servlet+JDBC+C3P0实现的苹果网上商城](easy/JSP+Servlet+C3P0+Mysql实现的苹果网上商城.md)
     * [JSP+Servlet+JDBC+C3P0实现的azhuo商城](easy/JSP+Servlet+C3P0+Mysql实现的azhuo商城.md)
+    * [JSP+Servlet+JDBC+C3P0实现的简单新闻系统](easy/JSP+Servlet+C3P0+Mysql实现的简单新闻系统.md)
     * [Maven+JSP+Servlet+JDBC实现的dbExper宾馆管理系统](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)
 * [中等(★★★☆☆)](medium/medium.md)
-	* [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
+	* [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
 * [困难(★★★★☆)](difficult/difficult.md)
 * [专家(★★★★★)](expert/expert.md)
 
