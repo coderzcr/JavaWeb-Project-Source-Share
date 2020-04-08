@@ -19,5 +19,6 @@
     * [Maven+JSP+Servlet+JDBC实现的dbExper宾馆管理系统](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)
 * [中等(★★★☆☆)](medium/medium.md)
 	* [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
+	* [JSP+SSH+Mysql实现的学生管理系统](medium/JSP+SSH+Mysql实现的学生管理系统.md)
 * [困难(★★★★☆)](difficult/difficult.md)
 * [专家(★★★★★)](expert/expert.md)
