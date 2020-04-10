@@ -63,6 +63,7 @@
     * [JSP+Servlet+JDBC+C3P0实现的简单新闻系统](easy/JSP+Servlet+C3P0+Mysql实现的简单新闻系统.md)
     * [Maven+JSP+Servlet+JDBC实现的dbExper宾馆管理系统](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)
 * [中等(★★★☆☆)](medium/medium.md)
+  * [JSP+Struts2+JDBC+Mysql实现的校园宿舍管理系统](medium/JSP+Struts2+JDBC+Mysql实现的校园宿舍管理系统.md)
 	* [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
 	* [JSP+SSH+Mysql实现的学生管理系统](medium/JSP+SSH+Mysql实现的学生管理系统.md)
 	* [JSP+SSH+Mysql+C3P0实现的传智播客网上商城](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)
