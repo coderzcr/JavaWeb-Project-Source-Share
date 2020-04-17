@@ -67,6 +67,7 @@
     * [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
     * [JSP+SSH+Mysql实现的学生管理系统](medium/JSP+SSH+Mysql实现的学生管理系统.md)
     * [JSP+SSH+Mysql+C3P0实现的传智播客网上商城](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)
+    * [Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)
 * [困难(★★★★☆)](difficult/difficult.md)
 * [专家(★★★★★)](expert/expert.md)
 
