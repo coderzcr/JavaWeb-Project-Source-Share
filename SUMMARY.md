@@ -23,5 +23,6 @@
 	* [JSP+SSH+Mysql实现的学生管理系统](medium/JSP+SSH+Mysql实现的学生管理系统.md)
 	* [JSP+SSH+Mysql+C3P0实现的传智播客网上商城](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)
 	* [Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)
+	* [Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)
 * [困难(★★★★☆)](difficult/difficult.md)
 * [专家(★★★★★)](expert/expert.md)
