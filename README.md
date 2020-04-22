@@ -9,6 +9,7 @@
   <a href="https://coderzcr.github.io/JavaWeb-Project-Source-Share/"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-read-brightgreen.svg" alt="阅读"></a>
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/badge/github-coderzcr-brightgreen.svg" alt="github"></a>
   <a href="#qq群"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E8%81%94%E7%B3%BB%E7%BE%A4%E4%B8%BB%E5%92%A8%E8%AF%A2-brightgreen.svg" alt="QQ群"></a>
+  <a href="#qq群"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E6%88%91%E5%AF%B9%E6%BA%90%E7%A0%81%E6%9C%89%E8%A6%81%E6%B1%82-brightgreen.svg" alt="QQ群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-brightgreen.svg" alt="公众号"></a>
 </p>
 
@@ -78,7 +79,19 @@
 
 ## qq群
 
-若本仓库中分享的项目无法正常运行或有技术问题，可以加**QQ群:1029248321**联系群主协助。
+朋友，如果您对源码有要求。
+
+比如，
+
+您想找一个网上书店的源码学习一下书店相关业务知识。
+
+您想找一个使用Redis作为缓存的项目学习一下Redis技术知识。
+
+那么就加q群**1029248321**。
+
+这里**不止分享源码，还会分享技术视频，热门教程，实用工具**，欢迎您的加入。
+
+若本仓库中分享的项目无法正常运行或有技术问题，可以加本群联系群主协助。
 
 ## 公众号
 
