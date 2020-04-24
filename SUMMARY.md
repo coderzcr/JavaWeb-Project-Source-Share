@@ -25,6 +25,7 @@
 	* [Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统](medium/Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统.md)
 	* [Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)
 	* [Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)
+	* [Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统.md)
 * [困难(★★★★☆)](difficult/difficult.md)
     * [Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)
 * [专家(★★★★★)](expert/expert.md)
