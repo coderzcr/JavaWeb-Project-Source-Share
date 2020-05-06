@@ -22,6 +22,7 @@
 	* [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
 	* [JSP+SSH+Mysql实现的学生管理系统](medium/JSP+SSH+Mysql实现的学生管理系统.md)
 	* [JSP+SSH+Mysql+C3P0实现的传智播客网上商城](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)
+	* [JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站](medium/JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站.md)
 	* [Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统](medium/Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统.md)
 	* [Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)
 	* [Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)
