@@ -8,6 +8,8 @@
 	* [JSP+Servlet+JDBC实现的天才会议管理系统](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)
 	* [JSP+Servlet+JDBC实现的云端汽修后台管理系统](newcomer/JSP+Servlet+JDBC实现的云端汽修后台管理系统.md)
 	* [JSP+Servlet+JDBC实现的学生信息管理系统](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)
+	* [JSP+Servlet+JDBC实现的学生成绩管理系统](newcomer/JSP+Servlet+JDBC+mysql实现的学生成绩管理系统.md)
+    * [JSP+Servlet+JDBC实现的个人日记本系统](newcomer/JSP+Servlet+JDBC+mysql实现的个人日记本系统.md)
 * [简单(★★☆☆☆)](easy/easy.md)
 	* [JSP+Servlet+JDBC+C3P0实现的图书馆管理系统](easy/JSP+Servlet+C3P0+Mysql实现的图书馆管理系统.md)
     * [JSP+Servlet+JDBC+C3P0实现的网上蛋糕店](easy/JSP+Servlet+C3P0+Mysql实现的网上蛋糕店.md)
