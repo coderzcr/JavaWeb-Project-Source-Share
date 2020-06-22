@@ -54,7 +54,7 @@
 ### [新手(★☆☆☆☆)](newcomer/newcomer.md)
 | 源码编号            | 源码名称       | 源码来源                                         | 前端关键字                                  | 后端关键字                  | 文章详述                           | 附带视频详述 | 问题备注 | 百度云下载 |
 |-----------------|------------|----------------------------------------------|----------------------------------------|------------------------|--------------------------------|--------|------|-------|
-| NEW202006221301 | shine网上书城  | https://gitee.com/thuihuang/shine_bookshop | html+css+JavaScript、Jquery、BootStrap | Jsp、Servlet、jdbc、mysql | JSP+Servlet+JDBC实现的shine网上书城 |        |      |       |
+| NEW202006221301 | shine网上书城  | https://gitee.com/thuihuang/shine_bookshop | html+css+JavaScript、Jquery、BootStrap | Jsp、Servlet、jdbc、mysql | [JSP+Servlet+JDBC实现的shine网上书城](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md) |        |      |       |
 | NEW202006221302 | 博客系统       |                                              |                                        |                        |                                |        |      |       |
 | NEW202006221303 | 天才会议管理系统   |                                              |                                        |                        |                                |        |      |       |
 | NEW202006221304 | 云端汽修后台管理系统 |                                              |                                        |                        |                                |        |      |       |
