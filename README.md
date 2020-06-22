@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://badgen.net/github/stars/coderzcr/JavaWeb-Project-Source-Share?icon=github&color=green" alt="star"></a>
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/badge/github-coderzcr-brightgreen.svg" alt="github"></a>
-  <a href="#qq群"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E8%81%94%E7%B3%BB%E7%BE%A4%E4%B8%BB%E5%92%A8%E8%AF%A2-brightgreen.svg" alt="QQ群"></a>
-  <a href="#qq群"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-%E6%88%91%E5%AF%B9%E6%BA%90%E7%A0%81%E6%9C%89%E8%A6%81%E6%B1%82-brightgreen.svg" alt="QQ群"></a>
+  <a href="#前言"><img src="https://img.shields.io/badge/QQ群-310834626-brightgreen.svg" alt="QQ群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-brightgreen.svg" alt="公众号"></a>
 </p>
 
@@ -16,7 +15,11 @@
 
 **[若访问速度慢，图片无法加载问题，请访问GITEE版本](https://gitee.com/coderzcr/JavaWeb-Project-Source-Share)**
 
-
+Hello，我是张有路！ 在这里，我将为您 1）分享流行技术实现的JavaWeb源码（包括但不局限于Servlet、SSH、SSM、SpringBoot）及相关技术的讲解。 2）对本仓库分享的代码进行免费的技术支持，但不涉及修改代码。 
+3）若您有项目或技术方面需求的JavaWeb源码，我帮您寻找。比如您需要“汽车租赁系统”或者是使用SSM实现的系统，可加入q群**1029248321**大胆提出来，这里**不止分享源码，还会分享技术视频，热门教程，实用工具**，欢迎您的加入。。
+4）**右上角Star+分享（仅限朋友圈、QQ空间、微博、超百人群）即可免费远程调试本仓库内任一项目1次。**
+![](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200615104907.png)
+5）另外，若您有修改代码、私人定制、远程协助的需求，也可直接联系qq310834626，但是要收费呦。
 
 ## 创建原因
 
@@ -173,22 +176,6 @@
 Java后端开发，4年工作经验。
 
 博客：[coderzcr.top](http://coderzcr.top)
-
-## qq群
-
-朋友，如果您对源码有要求。
-
-比如，
-
-您想找一个网上书店的源码学习一下书店相关业务知识。
-
-您想找一个使用Redis作为缓存的项目学习一下Redis技术知识。
-
-那么就加q群**1029248321**。
-
-这里**不止分享源码，还会分享技术视频，热门教程，实用工具**，欢迎您的加入。
-
-若本仓库中分享的项目无法正常运行或有技术问题，可以加本群联系群主协助。
 
 ## 公众号
 
