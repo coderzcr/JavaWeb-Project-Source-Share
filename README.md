@@ -113,7 +113,7 @@
 - Spring Cloud
 - Dubbo
 
-### [新手(★☆☆☆☆)](newcomer/newcomer.md)
+### 新手(★☆☆☆☆)
 
 |源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
 |-|-|-|-|-|-|-|-|-|-|
@@ -124,7 +124,7 @@
 |NEW202006221458|学生信息管理系统|[跳转](https://gitee.com/liu_xu111/JavaWeb01)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>h-ui<br>EasyUI|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/114474382) |      |       |
 |NEW202006221501|学生成绩管理系统|[跳转](https://gitee.com/zzdoreen/SSMS)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+mysql实现的学生成绩管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/141382924) |      |       |
 |NEW202006221502|个人日记本系统|[跳转](https://gitee.com/wishwzp/Diary)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+mysql实现的个人日记本系统.md)|[跳转](https://zhuanlan.zhihu.com/p/141379975) |      |       |
-### [简单(★★☆☆☆)](easy/easy.md)
+### 简单(★★☆☆☆)
 
 |源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
 |-|-|-|-|-|-|-|-|-|-|
@@ -139,7 +139,7 @@
 |EAS202006221522|dbExper宾馆管理系统|[跳转](https://github.com/mafulong/databaseExper-hotelMaster)|IDEA|html<br>css<br>JavaScript<br>Semantic UI<br>JQuery<br>Apache ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>maven|[跳转](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/115893887) |      |       |
 |EAS202006221525|音乐库管理系统|[跳转](https://gitee.com/sunnyandgood/OnlineMusic)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/Maven+JSP+Servlet+C3P0+Mysql实现的音乐库管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/142863756) |      |       |
 
-### [中等(★★★☆☆)](medium/medium.md)
+### 中等(★★★☆☆)
 
 |源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
 |-|-|-|-|-|-|-|-|-|-|
@@ -158,12 +158,12 @@
 |MED202006221554|家庭财务管理系统|[跳转](https://gitee.com/darlingzhangsh/graduation_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/132508106) |      |       |
 |MED202006221635|中小医院信息管理系统|[跳转](https://gitee.com/darlingzhangsh/graduation_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/132590561) |      |       |
 |MED202006221637|齐贤易游网旅游信息管理系统|[跳转](https://github.com/liuyongfei-1998/root)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>Tomcat-JDBC<br>maven|[跳转](medium/Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/135932271) |      |       |
-### [困难(★★★★☆)](difficult/difficult.md)
+### 困难(★★★★☆)
 |源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
 |-|-|-|-|-|-|-|-|-|-|
 |DIF202006221640|黑马旅游网|[跳转](https://gitee.com/haoshunyu/travel)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)|[跳转](https://zhuanlan.zhihu.com/p/134288585) |      |       |
 
-### [专家(★★★★★)](expert/expert.md)
+### 专家(★★★★★)
 
 
 ## qq群
