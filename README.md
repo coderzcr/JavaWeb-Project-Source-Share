@@ -52,45 +52,55 @@
 ### [作者](AUTHOR.md)
 ### [难度等级说明](LEVEL.md)
 ### [新手(★☆☆☆☆)](newcomer/newcomer.md)
-|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述| 附带视频详述 | 百度云下载 | 问题备注 |
+
+|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
 |-|-|-|-|-|-|-|-|-|-|
-|NEW202006221301|shine网上书城|[跳转](https://gitee.com/thuihuang/shine_bookshop)| |html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md)|[跳转](https://zhuanlan.zhihu.com/p/114001092)|      |       |
-|NEW202006221302|博客系统|[跳转](https://gitee.com/nanpingping/jsp-blog)| |html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的博客系统.md)|[跳转](https://zhuanlan.zhihu.com/p/116750137)|      |       |
-|NEW202006221446|天才会议管理系统|[跳转](https://github.com/hegexunmeng/meeting-system)| |html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/117545363) |      |       |
-    * [JSP+Servlet+JDBC实现的天才会议管理系统](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)
-    * [JSP+Servlet+JDBC实现的云端汽修后台管理系统](newcomer/JSP+Servlet+JDBC实现的云端汽修后台管理系统.md)
-    * [JSP+Servlet+JDBC实现的学生信息管理系统](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)
-    * [JSP+Servlet+JDBC实现的学生成绩管理系统](newcomer/JSP+Servlet+JDBC+mysql实现的学生成绩管理系统.md)
-    * [JSP+Servlet+JDBC实现的个人日记本系统](newcomer/JSP+Servlet+JDBC+mysql实现的个人日记本系统.md)
+|NEW202006221301|shine网上书城|[跳转](https://gitee.com/thuihuang/shine_bookshop)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md)|[跳转](https://zhuanlan.zhihu.com/p/114001092)|      |       |
+|NEW202006221302|博客系统|[跳转](https://gitee.com/nanpingping/jsp-blog)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的博客系统.md)|[跳转](https://zhuanlan.zhihu.com/p/116750137)|      |       |
+|NEW202006221446|天才会议管理系统|[跳转](https://github.com/hegexunmeng/meeting-system)|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/117545363) |      |       |
+|NEW202006221455|云端汽修后台管理系统|[跳转](https://gitee.com/chenlinSir/CloudDemo-servlet)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的云端汽修后台管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/114188772) |      |       |
+|NEW202006221458|学生信息管理系统|[跳转](https://gitee.com/liu_xu111/JavaWeb01)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>h-ui<br>EasyUI|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/114474382) |      |       |
+|NEW202006221501|学生成绩管理系统|[跳转](https://gitee.com/zzdoreen/SSMS)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+mysql实现的学生成绩管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/141382924) |      |       |
+|NEW202006221502|个人日记本系统|[跳转](https://gitee.com/wishwzp/Diary)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+mysql实现的个人日记本系统.md)|[跳转](https://zhuanlan.zhihu.com/p/141379975) |      |       |
 ### [简单(★★☆☆☆)](easy/easy.md)
-    * [JSP+Servlet+JDBC+C3P0实现的图书馆管理系统](easy/JSP+Servlet+C3P0+Mysql实现的图书馆管理系统.md)
-    * [JSP+Servlet+JDBC+C3P0实现的网上蛋糕店](easy/JSP+Servlet+C3P0+Mysql实现的网上蛋糕店.md)
-    * [JSP+Servlet+JDBC+C3P0实现的YCU movies电影网站](easy/JSP+Servlet+C3P0+Mysql实现的YCUMovies电影网站.md)
-    * [JSP+Servlet+JDBC+DBCP2实现在线购书系统](easy/JSP+Servlet+JDBC+DBCP2实现在线购书系统.md)
-    * [JSP+Servlet+JDBC+C3P0实现的苹果网上商城](easy/JSP+Servlet+C3P0+Mysql实现的苹果网上商城.md)
-    * [JSP+Servlet+JDBC+C3P0实现的azhuo商城](easy/JSP+Servlet+C3P0+Mysql实现的azhuo商城.md)
-    * [JSP+Servlet+JDBC+C3P0实现的简单新闻系统](easy/JSP+Servlet+C3P0+Mysql实现的简单新闻系统.md)
-    * [JSP+Servlet+JDBC+C3P0实现的人力资源管理系统](easy/JSP+Servlet+JDBC+C3P0实现的人力资源管理系统.md)
-    * [Maven+JSP+Servlet+JDBC实现的dbExper宾馆管理系统](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)
-    * [Maven+JSP+Servlet+C3P0实现的音乐库管理系统](easy/Maven+JSP+Servlet+C3P0+Mysql实现的音乐库管理系统.md)
+
+|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
+|-|-|-|-|-|-|-|-|-|-|
+|EAS202006221507|图书馆管理系统|[跳转](https://gitee.com/GaoHuaiYu/library_management_system)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的图书馆管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/115557947)|      |       |
+|EAS202006221509|网上蛋糕店|[跳转](https://gitee.com/PositiveMumu/CakesShop)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的网上蛋糕店.md)|[跳转](https://zhuanlan.zhihu.com/p/118471309)|      |       |
+|EAS202006221511|YCU movies电影网站|[跳转](https://gitee.com/zhp0514/java_web_movie_website_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap<br>ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的YCUMovies电影网站.md)|[跳转](https://zhuanlan.zhihu.com/p/114689539) |      |       |
+|EAS202006221513|在线购书系统|[跳转](https://gitee.com/suimz_admin/BookShop)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>DBCP|[跳转](easy/JSP+Servlet+JDBC+DBCP2实现在线购书系统.md)|[跳转](https://zhuanlan.zhihu.com/p/104589778) |      |       |
+|EAS202006221515|苹果网上商城|[跳转](https://github.com/gpengDemo/Estore)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的苹果网上商城.md)|[跳转](https://zhuanlan.zhihu.com/p/120925119) |      |       |
+|EAS202006221517|azhuo商城|[跳转](https://gitee.com/xuyizhuo/shopping)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的azhuo商城.md)|[跳转](https://zhuanlan.zhihu.com/p/121673478) |      |       |
+|EAS202006221518|简单新闻系统|[跳转](https://gitee.com/glotion/servlet-jsp_news)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的简单新闻系统.md)|[跳转](https://zhuanlan.zhihu.com/p/123246263) |      |       |
+|EAS202006221520|人力资源管理系统|[跳转](https://github.com/ruou/hr)|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>Apache Commons DbUtils|[跳转](easy/JSP+Servlet+JDBC+C3P0实现的人力资源管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/139051299) |      |       |
+|EAS202006221522|dbExper宾馆管理系统|[跳转](https://github.com/mafulong/databaseExper-hotelMaster)|IDEA|html<br>css<br>JavaScript<br>Semantic UI<br>JQuery<br>Apache ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>maven|[跳转](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/115893887) |      |       |
+|EAS202006221525|音乐库管理系统|[跳转](https://gitee.com/sunnyandgood/OnlineMusic)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/Maven+JSP+Servlet+C3P0+Mysql实现的音乐库管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/142863756) |      |       |
+
 ### [中等(★★★☆☆)](medium/medium.md)
-    * [JSP+Struts+JDBC+Mysql实现的诚欣电子商城](medium/JSP+Struts+JDBC+Mysql实现的诚欣电子商城.md)
-    * [JSP+Struts2+JDBC+Mysql实现的校园宿舍管理系统](medium/JSP+Struts2+JDBC+Mysql实现的校园宿舍管理系统.md)
-    * [JSP+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)
-    * [JSP+SSH+Mysql实现的学生管理系统](medium/JSP+SSH+Mysql实现的学生管理系统.md)
-    * [JSP+SSH+Mysql+C3P0实现的传智播客网上商城](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)
-    * [JSP+SSH+Mysql+DBCP实现的租车系统](medium/JSP+SSH+Mysql+DBCP实现的租车系统.md)
-    * [JSP+SSM+Mysql实现的图书馆预约占座管理系统](medium/JSP+SSM+Mysql实现的图书馆预约占座管理系统.md)
-    * [JSP+SSM+Mysql实现的学生成绩管理系统](medium/JSP+SSM+Mysql实现的学生成绩管理系统.md)
-    * [JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站](medium/JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站.md)
-    * [Maven+JSP+SSM+Mysql实现的学生管理系统](medium/Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统.md)
-    * [Maven+JSP+SSM+Mysql实现的汽车租赁管理系统](medium/Maven+JSP+SSM+Mysql实现的汽车租赁管理系统.md)
-    * [Maven+JSP+SSM+Mysql实现的音乐网站](medium/Maven+JSP+SSM+Mysql实现的音乐网站.md)
-    * [Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)
-    * [Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)
-    * [Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统](medium/Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统.md)
+
+|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
+|-|-|-|-|-|-|-|-|-|-|
+|MED202006221528|诚欣电子商城|[跳转](https://github.com/SuperiorNature/Java-Enterprise-electronic-mall)|Eclipse|html<br>css<br>JavaScript|Jsp<br>struts<br>jdbc<br>mysql|[跳转](medium/JSP+Struts+JDBC+Mysql实现的诚欣电子商城.md)|[跳转](https://zhuanlan.zhihu.com/p/146745084) |      |       |
+|MED202006221530|校园宿舍管理系统|[跳转](https://gitee.com/passenger134/javaweb-sushe)|Eclipse|html<br>css<br>JavaScript|Jsp<br>struts<br>jdbc<br>mysql|[跳转](medium/JSP+Struts2+JDBC+Mysql实现的校园宿舍管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/128597135) |      |       |
+|MED202006221531|大学生创新竞赛管理平台|[跳转](https://gitee.com/fly-liuhao/SCMS)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>servlet<br>MyBatis<br>mysql|[跳转](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)|[跳转](https://zhuanlan.zhihu.com/p/122402119) |      |       |
+|MED202006221537|学生管理系统|[跳转](https://gitee.com/liu_xu111/javaSSH)|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql|[跳转](medium/JSP+SSH+Mysql实现的学生管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/127093868) |      |       |
+|MED202006221539|传智播客网上商城|[跳转](https://gitee.com/2121/shop)|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>c3p0|[跳转](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)|[跳转](https://zhuanlan.zhihu.com/p/127840802) |      |       |
+|MED202006221540|租车系统|[跳转](https://github.com/1462656075/car)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Apache ECharts|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/JSP+SSH+Mysql+DBCP实现的租车系统.md)|[跳转](https://zhuanlan.zhihu.com/p/146748074) |      |       |
+|MED202006221542|图书馆预约占座管理系统|[跳转](https://gitee.com/gepanjiang/LibrarySeats)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql|[跳转](medium/JSP+SSM+Mysql实现的图书馆预约占座管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/142867926) |      |       |
+|MED202006221545|学生成绩管理系统|[跳转](https://gitee.com/z77z/StuSystem)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/JSP+SSM+Mysql实现的学生成绩管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/145404370) |      |       |
+|MED202006221549|学生管理系统|[跳转](https://gitee.com/wu_yun_long/student_management_system)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/134566305) |      |       |
+|MED202006221546|校园失物招领网站|[跳转](https://github.com/wenlongup/LostAndFound)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>c3p0|[跳转](medium/JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站.md)|[跳转](https://zhuanlan.zhihu.com/p/138481010) |      |       |
+|MED202006221550|汽车租赁管理系统|[跳转](https://gitee.com/huang_xiao_feng/carrentalsystem)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/Maven+JSP+SSM+Mysql实现的汽车租赁管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/138513664) |      |       |
+|MED202006221552|音乐网站|[跳转](https://gitee.com/coder_ze/iMusic)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven|[跳转](medium/Maven+JSP+SSM+Mysql实现的音乐网站.md)|[跳转](https://zhuanlan.zhihu.com/p/145403878) |      |       |
+|MED202006221554|家庭财务管理系统|[跳转](https://gitee.com/darlingzhangsh/graduation_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/132508106) |      |       |
+|MED202006221635|中小医院信息管理系统|[跳转](https://gitee.com/darlingzhangsh/graduation_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/132590561) |      |       |
+|MED202006221637|齐贤易游网旅游信息管理系统|[跳转](https://github.com/liuyongfei-1998/root)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>Tomcat-JDBC<br>maven|[跳转](medium/Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/135932271) |      |       |
 ### [困难(★★★★☆)](difficult/difficult.md)
-    * [Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)
+|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
+|-|-|-|-|-|-|-|-|-|-|
+|DIF202006221640|黑马旅游网|[跳转](https://gitee.com/haoshunyu/travel)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)|[跳转](https://zhuanlan.zhihu.com/p/134288585) |      |       |
+
 ### [专家(★★★★★)](expert/expert.md)
 
 
