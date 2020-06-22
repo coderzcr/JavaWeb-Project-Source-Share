@@ -52,18 +52,11 @@
 ### [作者](AUTHOR.md)
 ### [难度等级说明](LEVEL.md)
 ### [新手(★☆☆☆☆)](newcomer/newcomer.md)
-| 源码编号            | 源码名称       | 源码来源                                         | 前端关键字                                  | 后端关键字                  | 文章详述                           | 附带视频详述 | 百度云下载 | 问题备注 |
-|-----------------|------------|----------------------------------------------|----------------------------------------|------------------------|--------------------------------|--------|------|-------|
-| NEW202006221301 | shine网上书城  | [跳转](https://gitee.com/thuihuang/shine_bookshop) | html<br>css<br>JavaScript<br>Jquery<br>BootStrap | Jsp<br>Servlet<br>jdbc<br>mysql | [跳转](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md) | [跳转](https://www.zhihu.com/people/zhangcaoran/posts?page=2)   |      |       |
-| NEW202006221302 | 博客系统       |                                              |                                        |                        |                                |        |      |       |
-| NEW202006221303 | 天才会议管理系统   |                                              |                                        |                        |                                |        |      |       |
-| NEW202006221304 | 云端汽修后台管理系统 |                                              |                                        |                        |                                |        |      |       |
-| NEW202006221305 | 学生信息管理系统   |                                              |                                        |                        |                                |        |      |       |
-| NEW202006221306 | 学生成绩管理系统   |                                              |                                        |                        |                                |        |      |       |
-| NEW202006221307 | 个人日记本系统    |                                              |                                        |                        |                                |        |      |       |
-
-    * [JSP+Servlet+JDBC实现的shine网上书城](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md)
-    * [JSP+Servlet+JDBC实现的博客系统](newcomer/JSP+Servlet+JDBC+Mysql实现的博客系统.md)
+|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述| 附带视频详述 | 百度云下载 | 问题备注 |
+|-|-|-|-|-|-|-|-|-|-|
+|NEW202006221301|shine网上书城|[跳转](https://gitee.com/thuihuang/shine_bookshop)| |html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md)|[跳转](https://zhuanlan.zhihu.com/p/114001092)|      |       |
+|NEW202006221302|博客系统|[跳转](https://gitee.com/nanpingping/jsp-blog)| |html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的博客系统.md)|[跳转](https://zhuanlan.zhihu.com/p/116750137)|      |       |
+|NEW202006221446|天才会议管理系统|[跳转](https://github.com/hegexunmeng/meeting-system)| |html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/117545363) |      |       |
     * [JSP+Servlet+JDBC实现的天才会议管理系统](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)
     * [JSP+Servlet+JDBC实现的云端汽修后台管理系统](newcomer/JSP+Servlet+JDBC实现的云端汽修后台管理系统.md)
     * [JSP+Servlet+JDBC实现的学生信息管理系统](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)
