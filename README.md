@@ -48,8 +48,6 @@
 
 🌱🚀分享基于Servlet、SSH、SSM、SpringBoot等流行技术实现的JavaWeb项目。
 
-### [作者](AUTHOR.md)
-
 ### 难度等级说明
 
 #### 声明
@@ -166,6 +164,14 @@
 ### 专家(★★★★★)
 
 
+## 自我介绍
+
+我是张有路，山东大汉。
+
+Java后端开发，4年工作经验。
+
+博客：[coderzcr.top](http://coderzcr.top)
+
 ## qq群
 
 朋友，如果您对源码有要求。
@@ -189,4 +195,19 @@
 <center>
     <img src="http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif" style="width: 100px;">
 </center>
+
+## 联系我
+
+ - [微博](https://weibo.com/u/6206251724)
+ - [知乎](https://www.zhihu.com/people/zhangcaoran)
+ - [github](https://github.com/coderzcr)
+ - [gitee](https://gitee.com/coderzcr)
+ - [掘金](https://juejin.im/user/5d3e9df8f265da1b7f29c772)
+ - [segmentfault](https://segmentfault.com/u/coderzcr)
+ - [csdn](https://blog.csdn.net/lowProgramer)
+ - [博客园](https://www.cnblogs.com/zcr3108346262)
+ - [简书](https://www.jianshu.com/u/e928dabb6a3e)
+ - [v2ex](https://www.v2ex.com/member/coderzcr)
+ - 310834626@qq.com（推荐）
+
 
