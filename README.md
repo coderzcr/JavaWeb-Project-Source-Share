@@ -163,6 +163,8 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221542|图书馆预约占座管理系统|[跳转](https://gitee.com/gepanjiang/LibrarySeats)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql|[跳转](medium/JSP+SSM+Mysql实现的图书馆预约占座管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/142867926) |[提取码：3gy1](https://pan.baidu.com/s/1hakrElxNgozJL5g4oYAVog)|1.因原gitee仓库无数据库文件且存在水印，经过本人修改，现将该仓库重新上传至[个人gitee仓库](https://gitee.com/coderzcr/LibrarySeats)。 |
 |MED202006221545|学生成绩管理系统|[跳转](https://gitee.com/z77z/StuSystem)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/JSP+SSM+Mysql实现的学生成绩管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/145404370) |[提取码：pdez](https://pan.baidu.com/s/1JvtmS6EFRgI3lGu05DKXVQ)|       |
 |MED202006221549|学生管理系统|[跳转](https://gitee.com/wu_yun_long/student_management_system)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/134566305) |[提取码：6lbl](https://pan.baidu.com/s/1g-MSMnFmd3IsvEzXeW9-9g)|       |
+|MED202006231304|在线考试系统|[跳转](https://gitee.com/ztbb/online_question_bankjavassm)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>easyui|Jsp<br>SSM<br>mysql<br>c3p0|暂无|暂无|[提取码：ytzk](https://pan.baidu.com/s/1u8G0LMZTOwiBrKm7iCF5Jg)|1.原仓库sql文件异常，直接从百度云下载即可|
+|MED202006231335|大学课程在线学习系统|[跳转](https://gitee.com/zhangjiazhao/online_course_learning_website)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|暂无|暂无|[提取码：or64](https://pan.baidu.com/s/1B4hqHkXHUFuNP-tAfUyTOQ)|  |
 |MED202006221929|学生选课系统|[跳转](https://github.com/Zeng1998/Course-Selecting-System)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|暂无|暂无|[提取码：6ojy](https://pan.baidu.com/s/19ZguWFUtrd0lSLDSiSgdNg)|       |
 |MED202006221546|校园失物招领网站|[跳转](https://github.com/wenlongup/LostAndFound)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>c3p0|[跳转](medium/JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站.md)|[跳转](https://zhuanlan.zhihu.com/p/138481010) |[提取码：1xns](https://pan.baidu.com/s/1nIa95ut_zBvdrsCvIvdoZg)|       |
 |MED202006221550|汽车租赁管理系统|[跳转](https://gitee.com/huang_xiao_feng/carrentalsystem)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/Maven+JSP+SSM+Mysql实现的汽车租赁管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/138513664) |[提取码：to49](https://pan.baidu.com/s/1FVlBQipMWuwkgtJXPs3a1Q)|       |
@@ -175,7 +177,7 @@ Hello，我是张有路！ 在这里，我将为您
 ### 困难(★★★★☆)
 |源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
 |-|-|-|-|-|-|-|-|-|-|
-|DIF202006221640|黑马旅游网|[跳转](https://gitee.com/haoshunyu/travel)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)|[跳转](https://zhuanlan.zhihu.com/p/134288585) |[提取码：7w9r](https://pan.baidu.com/s/1FA_mzSPtEE_Az06KqfAagQ)|       |
+|DIF202006221640|黑马旅游网|[跳转](https://gitee.com/haoshunyu/travel)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)|[跳转](https://zhuanlan.zhihu.com/p/134288585) |[提取码：7w9r](https://pan.baidu.com/s/1FA_mzSPtEE_Az06KqfAagQ)|1.原仓库地址已不存在，直接从百度云下载|
 
 ### 专家(★★★★★)
 
