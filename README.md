@@ -23,7 +23,7 @@ Hello，我是张有路！ 在这里，我将为您
 
 3）若您有项目或技术方面需求的JavaWeb源码，我帮您寻找。比如您需要“汽车租赁系统”或者是使用SSM实现的系统，可加入q群**1029248321**大胆提出来，这里**不止分享源码，还会分享技术视频，热门教程，实用工具**，欢迎您的加入。。
 
-4）**右上角Star+分享（仅限朋友圈、QQ空间、微博、超百人群）即可免费远程调试本仓库内任一项目1次。**
+4）**右上角Star+分享（仅限朋友圈、QQ空间、超百人群）即可免费远程调试本仓库内**新手、简单、中等难度**任一项目1次。**
 
 ![](http://coderzcr.gitee.io/sensor-java-picture/pictures/202006221852.png)
 
@@ -63,68 +63,11 @@ Hello，我是张有路！ 在这里，我将为您
 
 ### 难度等级说明
 
-#### 声明
-
-我是一个Java后端，前端涉猎不多，所以该仓库中的分级主要按照后端的难度进行分级，是个人想法，可能不太准确，若有错误，请多见谅。
-
-#### 分级
-
 本仓库中的项目难度分为5个等级，包括新手、简单、中等、困难和专家。
 
-##### 新手等级
+我是Java后端，前端涉猎不多，所以该仓库中的分级主要按照后端的难度进行分级，可能不太准确，请多见谅。
 
-- Java基础。
-- 数据库。需要具备数据库基础，会一种数据库的基本操作（mysql、oracle、sqlserver等）及通过JDBC操作数据库。
-- 前端基础（html、css、javascript）。
-- 前端框架基础。选择一个主要的前端框架（bootstrap、layui、easyui等）。
-- JavaEE基础。Servlet、JSP。
-- Web容器（tomcat等）。
-
-##### 简单等级
-
-在上一个等级的基础上，还需要具备如下的能力。
-
-- 项目构建工具（maven、gradle等）。
-- 基础java工具的使用（hutool、apache commons、Google Guava等）。
-- 数据库连接池的使用（C3P0、DBCP、Druid、HikariCP等）。
-
-##### 中等等级
-
-中等等级的话基本上就可以用于简单的企业应用开发了。在上一个等级的基础上，还需要具备常用的企业开发框架使用的能力。
-
-- Web层（Struts1、Struts2、Spring MVC）。
-- Service层（Spring）。
-- DAO层（Hibernate、Mybatis、Spring Data JPA）。
-- 模板引擎（不止jsp,还有freemarker、velocity、thymeleaf等）。
-
-其中Spring是重中之重，而且版本非常多，推荐学习现在最流行的Springboot，使用起来非常简单，而且集成其他框架十分便捷，基本上一个jar包，一个配置就能集成。
-
-
-##### 困难等级
-
-困难等级需要在上一个等级的基础上，具备提升服务高可用、高性能的能力。
-- 前后端分离。
-- 使用缓存改善性能（ehcache、CAFFEINE、redis等）。
-- 使用应用服务器集群改善网站并发处理能力（nginx、haproxy等）。
-- 数据库读写分离（mycat、rdrs、sharding-jdbc等）。
-- 使用反向代理和 CDN 加速网站响应。
-- 使用分布式文件系统和分布式数据库系统。
-- 使用NoSQL（mogodb、redis等）。
-- 使用搜索引擎（Lucene、ElasticSearch、Solandra等）。
-- 使用消息队列削峰(ActiveMQ、RabbitMQ、Kafka)。
-- 引入大数据服务平台（Hadoop）。
-
-##### 专家等级
-
-专家等级如何分，我个人水平也达不到，还需要继续摸索。
-
-但是个人感觉要在具备服务高性能高可用的前提下，具备分布式服务的能力。
-
-分布式结构就是将一个完整的系统，按照业务功能，拆分成一个个独立的子系统，在分布式结构中，每个子系统被称为服务。而且这些服务能独立运行在web容器中。比如SOA（面向服务的架构）和最近大热的微服务，其中最常用的框架有：
-- Spring Cloud
-- Dubbo
-
-### 新手(★☆☆☆☆)
+### 新手(★☆☆☆☆)[点我查看新手要求](newcomer/newcomer.md)
 
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
 |-|-|-|-|-|-|
@@ -138,7 +81,7 @@ Hello，我是张有路！ 在这里，我将为您
 |NEW202006281404|泊车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281404.md)|
 |NEW202006281642|教学评价系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281642.md)|
 
-### 简单(★★☆☆☆)
+### 简单(★★☆☆☆)[点我查看简单要求](easy/easy.md)
 
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
 |-|-|-|-|-|-|
@@ -154,7 +97,7 @@ Hello，我是张有路！ 在这里，我将为您
 |EAS202006221525|音乐库管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/preview/EAS202006221525.md)|
 |EAS202006281628|投票系统|eclipse|html<br>css<br>JavaScript<br>JQuery|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006281628.md)|
 
-### 中等(★★★☆☆)
+### 中等(★★★☆☆)[点我查看中等要求](medium/medium.md)
 
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
 |-|-|-|-|-|-|
@@ -181,12 +124,12 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221637|齐贤易游网旅游信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>Tomcat-JDBC<br>maven|[跳转](medium/preview/MED202006221637.md)|
 |MED202006221942|大学教室管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|FreeMarker<br>springboot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221942.md)|
 
-### 困难(★★★★☆)
+### 困难(★★★★☆)[点我查看困难要求](difficult/difficult.md)
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
 |-|-|-|-|-|-|
 |DIF202006221640|黑马旅游网|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/preview/DIF202006221640.md)|
 
-### 专家(★★★★★)
+### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
 
 
 ## 自我介绍
