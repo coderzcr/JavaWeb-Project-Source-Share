@@ -141,7 +141,7 @@ Hello，我是张有路！ 在这里，我将为您
 ### 简单(★★☆☆☆)
 
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |EAS202006221507|图书馆管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221507.md)|
 |EAS202006221509|网上蛋糕店|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221509.md)|
 |EAS202006221511|YCU movies电影网站|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap<br>ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221511.md)|
