@@ -126,17 +126,17 @@ Hello，我是张有路！ 在这里，我将为您
 
 ### 新手(★☆☆☆☆)
 
-|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
-|-|-|-|-|-|-|-|-|-|-|
-|NEW202006221301|shine网上书城|[跳转](https://gitee.com/thuihuang/shine_bookshop)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的shine网上书城.md)|[跳转](https://zhuanlan.zhihu.com/p/114001092)|[提取码：zjld](https://pan.baidu.com/s/1fzWCh9fqY6suJhFILzBT7w)|       |
-|NEW202006221302|博客系统|[跳转](https://gitee.com/nanpingping/jsp-blog)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的博客系统.md)|[跳转](https://zhuanlan.zhihu.com/p/116750137)|[提取码：okws](https://pan.baidu.com/s/1cukc7pltZkeoM25u54rPDA)|       |
-|NEW202006221446|天才会议管理系统|[跳转](https://github.com/hegexunmeng/meeting-system)|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+Mysql实现的天才会议管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/117545363) |[提取码：06l6](https://pan.baidu.com/s/1oEd5xkCjgZQ7ZC_baiQhRQ)|       |
-|NEW202006221455|云端汽修后台管理系统|[跳转](https://gitee.com/chenlinSir/CloudDemo-servlet)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的云端汽修后台管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/114188772) |[提取码：lv53](https://pan.baidu.com/s/1-izcQtdKd2z4FuJYVnRHEA)|       |
-|NEW202006221458|学生信息管理系统|[跳转](https://gitee.com/liu_xu111/JavaWeb01)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>h-ui<br>EasyUI|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC实现的学生信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/114474382) |[提取码：8mkz](https://pan.baidu.com/s/1SuhQhOU-Y9B-wbsCjLdaDA)|       |
-|NEW202006221501|学生成绩管理系统|[跳转](https://gitee.com/zzdoreen/SSMS)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+mysql实现的学生成绩管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/141382924) |[提取码：9day](https://pan.baidu.com/s/158cXx0mavn2mxnvHdDu5IQ)|       |
-|NEW202006221502|个人日记本系统|[跳转](https://gitee.com/wishwzp/Diary)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/JSP+Servlet+JDBC+mysql实现的个人日记本系统.md)|[跳转](https://zhuanlan.zhihu.com/p/141379975) |[提取码：6b4f](https://pan.baidu.com/s/1V4nHpNusW08Z-OoThBfUUw)|       |
-|NEW202006281404|泊车系统|读者**coderyang**分享<br>qq:1023178796|Eclipse|html<br>css<br>JavaScript<br>Jquery|Jsp<br>Servlet<br>jdbc<br>mysql|暂无|暂无|[提取码：v5vb](https://pan.baidu.com/s/1Bwd2xrtiEDFJLX2TU-IWIw)|       |
-|NEW202006281642|教学评价系统|读者**coderyang**分享<br>qq:1023178796|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|暂无|暂无|[提取码：9lfg](https://pan.baidu.com/s/1daRDtdLTcvmccrw8CU1K1g)|       |
+|源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
+|-|-|-|-|-|-|
+|NEW202006221301|shine网上书城|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221301.md)|
+|NEW202006221302|博客系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221302.md)|
+|NEW202006221446|天才会议管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221446.md)|
+|NEW202006221455|云端汽修后台管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221455.md)|
+|NEW202006221458|学生信息管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>h-ui<br>EasyUI|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221458.md)|
+|NEW202006221501|学生成绩管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221501.md)|
+|NEW202006221502|个人日记本系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221502.md)|
+|NEW202006281404|泊车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281404.md)|
+|NEW202006281642|教学评价系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281642.md)|
 
 ### 简单(★★☆☆☆)
 
