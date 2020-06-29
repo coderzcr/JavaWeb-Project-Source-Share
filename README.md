@@ -140,19 +140,19 @@ Hello，我是张有路！ 在这里，我将为您
 
 ### 简单(★★☆☆☆)
 
-|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
+|源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
 |-|-|-|-|-|-|-|-|-|-|
-|EAS202006221507|图书馆管理系统|[跳转](https://gitee.com/GaoHuaiYu/library_management_system)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的图书馆管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/115557947)|[提取码：ome3](https://pan.baidu.com/s/1wvQbELIac34h3xULPIEBeA)|       |
-|EAS202006221509|网上蛋糕店|[跳转](https://gitee.com/PositiveMumu/CakesShop)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的网上蛋糕店.md)|[跳转](https://zhuanlan.zhihu.com/p/118471309)|[提取码：a3f6](https://pan.baidu.com/s/1xTd2gmGl7EeXmAU-K0gVLw)|       |
-|EAS202006221511|YCU movies电影网站|[跳转](https://gitee.com/zhp0514/java_web_movie_website_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap<br>ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的YCUMovies电影网站.md)|[跳转](https://zhuanlan.zhihu.com/p/114689539) |[提取码：s4bb](https://pan.baidu.com/s/1E7bCLbxfhwSYoHMWovjkaw)|       |
-|EAS202006221513|在线购书系统|[跳转](https://gitee.com/suimz_admin/BookShop)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>DBCP|[跳转](easy/JSP+Servlet+JDBC+DBCP2实现在线购书系统.md)|[跳转](https://zhuanlan.zhihu.com/p/104589778) |[提取码：46bv](https://pan.baidu.com/s/1zJX0hfnfHpESraXk-OMOEg)|1.数据库连接使用完毕后未关闭，多次操作后导致异常|
-|EAS202006221515|苹果网上商城|[跳转](https://github.com/gpengDemo/Estore)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的苹果网上商城.md)|[跳转](https://zhuanlan.zhihu.com/p/120925119) |[提取码：nwxf](https://pan.baidu.com/s/1T6G2bhCbUPx2FVKKTDoH4A)|       |
-|EAS202006221517|azhuo商城|[跳转](https://gitee.com/xuyizhuo/shopping)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的azhuo商城.md)|[跳转](https://zhuanlan.zhihu.com/p/121673478) |[提取码：ycrs](https://pan.baidu.com/s/1RlmaxcxIrIo7tJTuYRvYPQ)|       |
-|EAS202006221518|简单新闻系统|[跳转](https://gitee.com/glotion/servlet-jsp_news)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/JSP+Servlet+C3P0+Mysql实现的简单新闻系统.md)|[跳转](https://zhuanlan.zhihu.com/p/123246263) |[提取码：o5a5](https://pan.baidu.com/s/14rQNJrnBATPNeuvm3jnSNA)|       |
-|EAS202006221520|人力资源管理系统|[跳转](https://github.com/ruou/hr)|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>Apache Commons DbUtils|[跳转](easy/JSP+Servlet+JDBC+C3P0实现的人力资源管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/139051299) |[提取码：9csy](https://pan.baidu.com/s/1__xQZ40h-n1z9BNdNPDGFw)|       |
-|EAS202006221522|dbExper宾馆管理系统|[跳转](https://github.com/mafulong/databaseExper-hotelMaster)|IDEA|html<br>css<br>JavaScript<br>Semantic UI<br>JQuery<br>Apache ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>maven|[跳转](easy/Maven+JSP+Servlet+JDBC+Mysql实现的dbExper宾馆管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/115893887) |[提取码：78fh](https://pan.baidu.com/s/1FVIVMSHbEzGGuuRZh6xkiQ)|       |
-|EAS202006221525|音乐库管理系统|[跳转](https://gitee.com/sunnyandgood/OnlineMusic)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/Maven+JSP+Servlet+C3P0+Mysql实现的音乐库管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/142863756) |[提取码：paqt](https://pan.baidu.com/s/1fpynxETaxD9iv8jrn31adg)|       |
-|EAS202006281628|投票系统|读者**coderyang**分享<br>qq:1023178796|eclipse|html<br>css<br>JavaScript<br>JQuery|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|暂无|暂无|[提取码：qp1p](https://pan.baidu.com/s/1cEiI9RU0TlJlL6p6iH9WuQ)|       |
+|EAS202006221507|图书馆管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221507.md)|
+|EAS202006221509|网上蛋糕店|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221509.md)|
+|EAS202006221511|YCU movies电影网站|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap<br>ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221511.md)|
+|EAS202006221513|在线购书系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>DBCP|[跳转](easy/preview/EAS202006221513.md)|
+|EAS202006221515|苹果网上商城|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221515.md)|
+|EAS202006221517|azhuo商城|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221517.md)|
+|EAS202006221518|简单新闻系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006221518.md)|
+|EAS202006221520|人力资源管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>Apache Commons DbUtils|[跳转](easy/preview/EAS202006221520.md)|
+|EAS202006221522|dbExper宾馆管理系统|IDEA|html<br>css<br>JavaScript<br>Semantic UI<br>JQuery<br>Apache ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>maven|[跳转](easy/EAS202006221522.md)|
+|EAS202006221525|音乐库管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/preview/EAS202006221525.md)|
+|EAS202006281628|投票系统|eclipse|html<br>css<br>JavaScript<br>JQuery|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006281628.md)|
 
 ### 中等(★★★☆☆)
 
