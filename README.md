@@ -156,35 +156,35 @@ Hello，我是张有路！ 在这里，我将为您
 
 ### 中等(★★★☆☆)
 
-|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
-|-|-|-|-|-|-|-|-|-|-|
-|MED202006221528|诚欣电子商城|[跳转](https://github.com/SuperiorNature/Java-Enterprise-electronic-mall)|Eclipse|html<br>css<br>JavaScript|Jsp<br>struts<br>jdbc<br>mysql|[跳转](medium/JSP+Struts+JDBC+Mysql实现的诚欣电子商城.md)|[跳转](https://zhuanlan.zhihu.com/p/146745084) |[提取码：cvsz](https://pan.baidu.com/s/13j7fXG9cxFxCsC_Py1cUOQ)|       |
-|MED202006221530|校园宿舍管理系统|[跳转](https://gitee.com/passenger134/javaweb-sushe)|Eclipse|html<br>css<br>JavaScript|Jsp<br>struts<br>jdbc<br>mysql|[跳转](medium/JSP+Struts2+JDBC+Mysql实现的校园宿舍管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/128597135) |[提取码：jmgu](https://pan.baidu.com/s/1bjfOsgncJPd7S9C8Rg9tVw)|       |
-|MED202006221531|大学生创新竞赛管理平台|[跳转](https://gitee.com/fly-liuhao/SCMS)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>servlet<br>MyBatis<br>mysql|[跳转](medium/Layui+Servlet+MyBatis+Mysql实现的大学生创新竞赛管理平台.md)|[跳转](https://zhuanlan.zhihu.com/p/122402119) |[提取码：jhmr](https://pan.baidu.com/s/1fkDgsAZ2B5dpq4Klt_gbRg)|1.原仓库中未上传jar包及登录异常，现将修改过的源码上传到百度网盘上|
-|MED202006221537|学生管理系统|[跳转](https://gitee.com/liu_xu111/javaSSH)|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql|[跳转](medium/JSP+SSH+Mysql实现的学生管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/127093868) |[提取码：x5ri](https://pan.baidu.com/s/1QR-50oYC0OfXDhAnph3M0A)|       |
-|MED202006221539|传智播客网上商城|[跳转](https://gitee.com/2121/shop)|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>c3p0|[跳转](medium/JSP+SSH+Mysql+C3P0实现的传智播客网上商城.md)|[跳转](https://zhuanlan.zhihu.com/p/127840802) |[提取码：uig7](https://pan.baidu.com/s/1OwHmrs4cM-6W2pB96Yweaw)|       |
-|MED202006221540|租车系统|[跳转](https://github.com/1462656075/car)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Apache ECharts|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/JSP+SSH+Mysql+DBCP实现的租车系统.md)|[跳转](https://zhuanlan.zhihu.com/p/146748074) |[提取码：w4pn](https://pan.baidu.com/s/1EJhqZ-pl88crUadwo0VNnA)|       |
-|MED202006281440|家教预约系统|读者**coderyang**分享<br>qq:1023178796|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>DBCP|暂无|暂无|[提取码：evkb](https://pan.baidu.com/s/1xVuEr63w7LDpCmtEV3-2hA)|       |
-|MED202006221542|图书馆预约占座管理系统|[跳转](https://gitee.com/gepanjiang/LibrarySeats)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql|[跳转](medium/JSP+SSM+Mysql实现的图书馆预约占座管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/142867926) |[提取码：3gy1](https://pan.baidu.com/s/1hakrElxNgozJL5g4oYAVog)|1.因原gitee仓库无数据库文件且存在水印，经过本人修改，现将该仓库重新上传至[个人gitee仓库](https://gitee.com/coderzcr/LibrarySeats)。 |
-|MED202006221545|学生成绩管理系统|[跳转](https://gitee.com/z77z/StuSystem)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/JSP+SSM+Mysql实现的学生成绩管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/145404370) |[提取码：pdez](https://pan.baidu.com/s/1JvtmS6EFRgI3lGu05DKXVQ)|       |
-|MED202006221549|学生管理系统|[跳转](https://gitee.com/wu_yun_long/student_management_system)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/Maven+JSP+SSM+Mysql+C3P0实现的学生管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/134566305) |[提取码：6lbl](https://pan.baidu.com/s/1g-MSMnFmd3IsvEzXeW9-9g)|       |
-|MED202006231304|在线考试系统|[跳转](https://gitee.com/ztbb/online_question_bankjavassm)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>easyui|Jsp<br>SSM<br>mysql<br>c3p0|暂无|暂无|[提取码：ytzk](https://pan.baidu.com/s/1u8G0LMZTOwiBrKm7iCF5Jg)|1.原仓库sql文件异常，直接从百度云下载即可|
-|MED202006231335|大学课程在线学习系统|[跳转](https://gitee.com/zhangjiazhao/online_course_learning_website)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|暂无|暂无|[提取码：or64](https://pan.baidu.com/s/1B4hqHkXHUFuNP-tAfUyTOQ)|  |
-|MED202006281649|在线商城|读者**coderyang**分享<br>qq:1023178796|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Easyui|Jsp<br>SSM<br>mysql<br>c3p0|暂无|暂无|[提取码：f6jf](https://pan.baidu.com/s/1jEqs40D4hIksvBHtHl7n8A)|  |
-|MED202006221929|学生选课系统|[跳转](https://github.com/Zeng1998/Course-Selecting-System)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|暂无|暂无|[提取码：6ojy](https://pan.baidu.com/s/19ZguWFUtrd0lSLDSiSgdNg)|       |
-|MED202006221546|校园失物招领网站|[跳转](https://github.com/wenlongup/LostAndFound)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>c3p0|[跳转](medium/JSP+Spring+SpringMVC+Hibernate+Mysql实现的校园失物招领网站.md)|[跳转](https://zhuanlan.zhihu.com/p/138481010) |[提取码：1xns](https://pan.baidu.com/s/1nIa95ut_zBvdrsCvIvdoZg)|       |
-|MED202006221550|汽车租赁管理系统|[跳转](https://gitee.com/huang_xiao_feng/carrentalsystem)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/Maven+JSP+SSM+Mysql实现的汽车租赁管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/138513664) |[提取码：to49](https://pan.baidu.com/s/1FVlBQipMWuwkgtJXPs3a1Q)|       |
-|MED202006231631|OA办公系统|[跳转](https://gitee.com/ckjcode/OA)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven<br>lombok|暂无|暂无|[提取码：sxwq](https://pan.baidu.com/s/1p6Dfu3pU_QZZjJzYyKr1Gw)|1.源仓库代码加载css、js文件异常，直接从百度云下载即可。|
-|MED202006221552|音乐网站|[跳转](https://gitee.com/coder_ze/iMusic)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven|[跳转](medium/Maven+JSP+SSM+Mysql实现的音乐网站.md)|[跳转](https://zhuanlan.zhihu.com/p/145403878) |[提取码：ecsf](https://pan.baidu.com/s/1aH4vhDO0kagmpw1YgIy5mg)|       |
-|MED202006221554|家庭财务管理系统|[跳转](https://gitee.com/darlingzhangsh/graduation_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/Thymeleaf+SpringBoot+Mybatis实现的家庭财务管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/132508106) |[提取码：rtcn](https://pan.baidu.com/s/1gQJkGVs05IcfhnZZ0gSWRQ)|       |
-|MED202006221635|中小医院信息管理系统|[跳转](https://gitee.com/darlingzhangsh/graduation_project)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/Thymeleaf+SpringBoot+SpringDataJPA实现的中小医院信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/132590561) |[提取码：h6mo](https://pan.baidu.com/s/1tFdce6hglEnBRxzVxb8D-Q)|       |
-|MED202006221637|齐贤易游网旅游信息管理系统|[跳转](https://github.com/liuyongfei-1998/root)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>Tomcat-JDBC<br>maven|[跳转](medium/Thymeleaf+SpringBoot+Mybatis实现的齐贤易游网旅游信息管理系统.md)|[跳转](https://zhuanlan.zhihu.com/p/135932271) |[提取码：003c](https://pan.baidu.com/s/1hUeS6TYS3TwfTkA_907zWA)|       |
-|MED202006221942|大学教室管理系统|[跳转](https://github.com/zhibi/edu-room-manage)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|FreeMarker<br>springboot<br>mybatis<br>mysql<br>druid<br>maven|暂无|暂无|[提取码：5ydz](https://pan.baidu.com/s/1UvNt9g-2e9fmfL77JRGfJA)|       |
+|源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
+|-|-|-|-|-|-|
+|MED202006221528|诚欣电子商城|Eclipse|html<br>css<br>JavaScript|Jsp<br>struts<br>jdbc<br>mysql|[跳转](medium/preview/MED202006221528.md)|
+|MED202006221530|校园宿舍管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>struts<br>jdbc<br>mysql|[跳转](medium/preview/MED202006221530.md)|
+|MED202006221531|大学生创新竞赛管理平台|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>servlet<br>MyBatis<br>mysql|[跳转](medium/preview/MED202006221531.md)|
+|MED202006221537|学生管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql|[跳转](medium/preview/MED202006221537.md)|
+|MED202006221539|传智播客网上商城|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221539.md)|
+|MED202006221540|租车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Apache ECharts|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/preview/MED202006221540.md)|
+|MED202006281440|家教预约系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/preview/MED202006281440.md)|
+|MED202006221542|图书馆预约占座管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql|[跳转](medium/preview/MED202006221542.md)|
+|MED202006221545|学生成绩管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/preview/MED202006221545.md)|
+|MED202006221549|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221549.md)|
+|MED202006231304|在线考试系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>easyui|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231304.md)|
+|MED202006231335|大学课程在线学习系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231335.md)|
+|MED202006281649|在线商城|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Easyui|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006281649.md)|
+|MED202006221929|学生选课系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202006221929.md)|
+|MED202006221546|校园失物招领网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221546.md)|
+|MED202006221550|汽车租赁管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221550.md)|
+|MED202006231631|OA办公系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven<br>lombok|[跳转](medium/preview/MED202006231631.md)|
+|MED202006221552|音乐网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven|[跳转](medium/preview/MED202006221552.md)|
+|MED202006221554|家庭财务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202006221554.md)|
+|MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
+|MED202006221637|齐贤易游网旅游信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>Tomcat-JDBC<br>maven|[跳转](medium/preview/MED202006221637.md)|
+|MED202006221942|大学教室管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|FreeMarker<br>springboot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221942.md)|
 
 ### 困难(★★★★☆)
-|源码编号|源码名称|源码来源|编辑器|前端关键字|后端关键字|文章详述|附带视频详述|百度云下载|问题备注|
-|-|-|-|-|-|-|-|-|-|-|
-|DIF202006221640|黑马旅游网|[跳转](https://gitee.com/haoshunyu/travel)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/Maven+JSP+Servlet+JDBC+Redis+Mysql实现的黑马旅游网.md)|[跳转](https://zhuanlan.zhihu.com/p/134288585) |[提取码：7w9r](https://pan.baidu.com/s/1FA_mzSPtEE_Az06KqfAagQ)|1.原仓库地址已不存在，直接从百度云下载|
+|源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
+|-|-|-|-|-|-|
+|DIF202006221640|黑马旅游网|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/preview/DIF202006221640.md)|
 
 ### 专家(★★★★★)
 
