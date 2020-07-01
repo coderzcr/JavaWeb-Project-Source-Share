@@ -81,6 +81,7 @@ Hello，我是张有路！ 在这里，我将为您
 |NEW202006281404|泊车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281404.md)|
 |NEW202006281642|教学评价系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281642.md)|
 |NEW202007012128|托马斯网上零食商城|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007012128.md)|
+|NEW202007012223|二手交易网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007012223.md)|
 
 ### 简单(★★☆☆☆)[点我查看简单要求](easy/easy.md)
 
