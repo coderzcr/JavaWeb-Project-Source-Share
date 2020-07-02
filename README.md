@@ -134,6 +134,7 @@ Hello，我是张有路！ 在这里，我将为您
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
 |-|-|-|-|-|-|
 |DIF202006221640|黑马旅游网|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven|[跳转](difficult/preview/DIF202006221640.md)|
+|DIF202007021026|WePlay网上游戏商城(仿Steam)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>Redis<br>maven|[跳转](difficult/preview/DIF202007021026.md)|
 |DIF202006291932|在线音乐网站|IDEA|vue<br>ElementUI|springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](difficult/preview/DIF202006291932.md)|
 |DIF202006291951|在线考试系统|IDEA|vue<br>ElementUI|springboot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202006291951.md)|
 
