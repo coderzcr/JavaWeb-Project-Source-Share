@@ -76,7 +76,7 @@ Hello，我是张有路！ 在这里，我将为您
 |NEW202006221446|天才会议管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221446.md)|
 |NEW202006221455|云端汽修后台管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221455.md)|
 |NEW202006221458|学生信息管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>h-ui<br>EasyUI|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221458.md)|
-|NEW202007020947|教务系统(学生信息管理系统)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007020947.md)|
+|NEW202007020947|教务系统(学生信息管理系统)|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007020947.md)|
 |NEW202006221501|学生成绩管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221501.md)|
 |NEW202006221502|个人日记本系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006221502.md)|
 |NEW202006281404|泊车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281404.md)|
