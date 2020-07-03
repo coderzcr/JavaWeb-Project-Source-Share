@@ -129,6 +129,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
 |MED202006291920|医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202006291920.md)|
 |MED202006221637|齐贤易游网旅游信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>Tomcat-JDBC<br>maven|[跳转](medium/preview/MED202006221637.md)|
+|MED202007031105|绩效管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap<br>Echart|thymeleaf<br>springboot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202007031105.md)|
 |MED202006221942|大学教室管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|FreeMarker<br>springboot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221942.md)|
 
 ### 困难(★★★★☆)[点我查看困难要求](difficult/difficult.md)
