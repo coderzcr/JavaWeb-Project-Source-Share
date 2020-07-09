@@ -125,6 +125,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202007021905|校园订餐系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>shrio<br>lombok<br>maven|[跳转](medium/preview/MED202007021905.md)|
 |MED202006221550|汽车租赁管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221550.md)|
 |MED202006231631|OA办公系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven<br>lombok|[跳转](medium/preview/MED202006231631.md)|
+|MED202007091054|人力资源管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven<br>spring security|[跳转](medium/preview/MED202007091054.md)|
 |MED202006221552|音乐网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven|[跳转](medium/preview/MED202006221552.md)|
 |MED202006221554|家庭财务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202006221554.md)|
 |MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
@@ -140,6 +141,7 @@ Hello，我是张有路！ 在这里，我将为您
 |DIF202007021026|WePlay网上游戏商城(仿Steam)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>Redis<br>maven|[跳转](difficult/preview/DIF202007021026.md)|
 |DIF202006291932|在线音乐网站|IDEA|vue<br>ElementUI|springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](difficult/preview/DIF202006291932.md)|
 |DIF202006291951|在线考试系统|IDEA|vue<br>ElementUI|springboot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202006291951.md)|
+|DIF202007091023|微人事|IDEA|vue<br>ElementUI|springboot<br>Spring Security<br>Redis<br>RabbitMQ<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>fastdfs<br>websocket|[跳转](difficult/preview/DIF202007091023.md)|
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
 
