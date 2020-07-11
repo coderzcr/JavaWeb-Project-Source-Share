@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://badgen.net/github/stars/coderzcr/JavaWeb-Project-Source-Share?icon=github&color=green" alt="star"></a>
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/badge/github-coderzcr-brightgreen.svg" alt="github"></a>
-  <a href="#前言"><img src="https://img.shields.io/badge/QQ群-1029248321-brightgreen.svg" alt="QQ群"></a>
+  <a href="#前言"><img src="https://img.shields.io/badge/QQ群-1029248321-brightgreen.svg" alt="加群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-brightgreen.svg" alt="公众号"></a>
 </p>
 
@@ -22,6 +22,7 @@ Hello，我是张有路！ 在这里，我将为您
 2）对本仓库分享的代码进行免费的技术支持，但不涉及修改代码。 
 
 3）若您有项目或技术方面需求的JavaWeb源码，我帮您寻找。比如您需要“汽车租赁系统”或者是使用SSM实现的系统，可加入q群**1029248321**（备注“JavaWeb”）或微信群（扫描微信二维码，备注“JavaWeb”,我邀您入微信群），大胆提出来，这里**不止分享源码，还会分享技术视频，热门教程，实用工具**，欢迎您的加入。
+
 ![](http://coderzcr.gitee.io/sensor-java-picture/pictures/mmqrcode1564277983207.png)
 
 4）**右上角Star+分享（仅限朋友圈、QQ空间、超百人群）即可免费远程调试本仓库内**新手、简单、中等难度**任一项目1次。**
