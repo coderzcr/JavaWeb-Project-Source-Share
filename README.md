@@ -69,6 +69,7 @@ Hello，我是张有路！ 在这里，我将为您
 
 |源码编号|源码名称|推荐原因|
 |-|-|-|
+|NEW202007311522、MED202007311557、MED202007311603|模仿天猫网站|以Servlet、SSH、SSM三种形式实现了天猫网站，并附带详细的实现思路、说明文档|
 |DIF202006291932|在线音乐网站|附带实现思路、说明文档，适合学习|
 |DIF202007091023|微人事|附带实现思路、说明文档，适合学习|
 
@@ -94,6 +95,7 @@ Hello，我是张有路！ 在这里，我将为您
 |NEW202006281642|教学评价系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202006281642.md)|
 |NEW202007012128|托马斯网上零食商城|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007012128.md)|
 |NEW202007012223|二手交易网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007012223.md)|
+|NEW202007311522|模仿天猫网站|IDEA|html<br>css<br>JavaScript<br>jQuery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007311522.md)|
 
 ### 简单(★★☆☆☆)[点我查看简单要求](easy/easy.md)
 
@@ -124,6 +126,8 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221539|传智播客网上商城|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221539.md)|
 |MED202006221540|租车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Apache ECharts|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/preview/MED202006221540.md)|
 |MED202006281440|家教预约系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/preview/MED202006281440.md)|
+|MED202007311557|模仿天猫网站|IDEA|html<br>css<br>JavaScript<br>jQuery<br>BootStrap|Jsp<br>SSH<br>mysql|[跳转](medium/preview/MED202007311557.md)|
+|MED202007311603|模仿天猫网站|IDEA|html<br>css<br>JavaScript<br>jQuery<br>BootStrap|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/preview/MED202007311603.md)|
 |MED202006221542|图书馆预约占座管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql|[跳转](medium/preview/MED202006221542.md)|
 |MED202006221545|学生成绩管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/preview/MED202006221545.md)|
 |MED202006221549|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221549.md)|
