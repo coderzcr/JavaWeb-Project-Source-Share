@@ -115,7 +115,7 @@ Hello，我是张有路！ 在这里，我将为您
 |EAS202006221522|dbExper宾馆管理系统|IDEA|html<br>css<br>JavaScript<br>Semantic UI<br>JQuery<br>Apache ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>maven|[跳转](easy/EAS202006221522.md)|
 |EAS202006221525|音乐库管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/preview/EAS202006221525.md)|
 |EAS202006281628|投票系统|eclipse|html<br>css<br>JavaScript<br>JQuery|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006281628.md)|
-|EAS202008031933|学生管理系统|eclipse|html<br>css<br>JavaScript<br>JQuery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>dbcp|[跳转](easy/preview/EAS202006281628.md)|
+|EAS202008031933|学生管理系统|eclipse|html<br>css<br>JavaScript<br>JQuery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>dbcp|[跳转](easy/preview/DIF202007091023.md)|
 
 ### 中等(★★★☆☆)[点我查看中等要求](medium/medium.md)
 
