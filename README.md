@@ -70,8 +70,10 @@ Hello，我是张有路！ 在这里，我将为您
 |源码编号|源码名称|推荐原因|
 |-|-|-|
 |NEW202007311522、MED202007311557、MED202007311603|模仿天猫网站|以Servlet、SSH、SSM三种形式实现了天猫网站，并附带详细的实现思路、说明文档|
+|EAS202008031933|学生管理系统|附带视频教程，跟随视频学习效率高且出错的可能性比较小|
 |DIF202006291932|在线音乐网站|附带实现思路、说明文档，适合学习|
 |DIF202007091023|微人事|附带实现思路、说明文档，适合学习|
+
 
 ### 难度等级说明
 
@@ -113,6 +115,7 @@ Hello，我是张有路！ 在这里，我将为您
 |EAS202006221522|dbExper宾馆管理系统|IDEA|html<br>css<br>JavaScript<br>Semantic UI<br>JQuery<br>Apache ECharts|Jsp<br>Servlet<br>jdbc<br>mysql<br>maven|[跳转](easy/EAS202006221522.md)|
 |EAS202006221525|音乐库管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0<br>maven|[跳转](easy/preview/EAS202006221525.md)|
 |EAS202006281628|投票系统|eclipse|html<br>css<br>JavaScript<br>JQuery|Jsp<br>Servlet<br>jdbc<br>mysql<br>c3p0|[跳转](easy/preview/EAS202006281628.md)|
+|EAS202008031933|学生管理系统|eclipse|html<br>css<br>JavaScript<br>JQuery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql<br>dbcp|[跳转](easy/preview/EAS202006281628.md)|
 
 ### 中等(★★★☆☆)[点我查看中等要求](medium/medium.md)
 
