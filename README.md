@@ -11,8 +11,6 @@
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-brightgreen.svg" alt="公众号"></a>
 </p>
 
-[![Stargazers over time](https://starchart.cc/coderzcr/JavaWeb-Project-Source-Share.svg)](https://starchart.cc/coderzcr/JavaWeb-Project-Source-Share)
-
 
 ## 前言
 
