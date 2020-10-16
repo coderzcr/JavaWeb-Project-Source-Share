@@ -146,7 +146,9 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006231631|OA办公系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven<br>lombok|[跳转](medium/preview/MED202006231631.md)|
 |MED202007091054|人力资源管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven<br>spring security|[跳转](medium/preview/MED202007091054.md)|
 |MED202006221552|音乐网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven|[跳转](medium/preview/MED202006221552.md)|
-|MED202008101923|快递代拿系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|SSM<br>mysql<br>druid<br>shiro<br>maven<br>砂箱版支付宝|[跳转](medium/preview/MED202008101923.md)|
+|MED202010140958|二手书交易系统|IDEA|html<br>css<br>JavaScript<br>Jquery|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202010140958.md)|
+|MED202008101923|快递代拿系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|SSM<br>mysql<br>druid<br>shiro<br>maven<br>沙箱版支付宝|[跳转](medium/preview/MED202008101923.md)|
+|MED202010151839|教务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0<br>maven<br>shiro|[跳转](medium/preview/MED202010151839.md)|
 |MED202006221554|家庭财务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202006221554.md)|
 |MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
 |MED202006291920|医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202006291920.md)|
