@@ -27,11 +27,6 @@ Hello，我是张有路！ 在这里，我将为您
 
 ![](http://coderzcr.gitee.io/sensor-java-picture/pictures/mmqrcode1564277983207.png)
 
-4）**右上角Star+分享（仅限朋友圈、QQ空间、超百人群）即可免费远程调试本仓库内**新手、简单、中等难度**任一项目1次。**
-
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/202006221852.png)
-
-5）另外，若您有修改代码、私人定制、远程协助的需求，也可直接联系qq310834626，但是要收费呦。
 
 ## 创建原因
 
