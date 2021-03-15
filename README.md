@@ -132,6 +132,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221542|图书馆预约占座管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql|[跳转](medium/preview/MED202006221542.md)|
 |MED202006221545|学生成绩管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/preview/MED202006221545.md)|
 |MED202006221549|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221549.md)|
+|MED202103151511|图书馆管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103151511.md)|
 |MED202007011609|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202007011609.md)|
 |MED202006231304|在线考试系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>easyui|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231304.md)|
 |MED202006231335|大学课程在线学习系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231335.md)|
@@ -146,6 +147,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202010140958|二手书交易系统|IDEA|html<br>css<br>JavaScript<br>Jquery|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202010140958.md)|
 |MED202008101923|快递代拿系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|SSM<br>mysql<br>druid<br>shiro<br>maven<br>沙箱版支付宝|[跳转](medium/preview/MED202008101923.md)|
 |MED202010151839|教务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0<br>maven<br>shiro|[跳转](medium/preview/MED202010151839.md)|
+|MED202103151601|小区管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Velocity<br>SSM<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202103151601.md)|
 |MED202006221554|家庭财务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>springboot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202006221554.md)|
 |MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>springboot<br>jpa<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
 |MED202006291920|医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>springboot<br>mybatis<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202006291920.md)|
