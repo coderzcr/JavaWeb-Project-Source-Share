@@ -156,6 +156,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221942|大学教室管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|FreeMarker<br>springboot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221942.md)|
 |MED202008101913|个人博客系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Thymeleaf<br>Springboot<br>mybatis<br>mysql<br>druid<br>maven<br>swagger<br>ehcache|[跳转](medium/preview/MED202008101913.md)|
 |MED202103131415|迷你天猫商城|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>Springboot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202008101913.md)|
+|MED202103151722|疫情信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Thymeleaf<br>Springboot<br>Spring Security<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103151722.md)|
 
 ### 困难(★★★★☆)[点我查看困难要求](difficult/difficult.md)
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
