@@ -172,7 +172,7 @@ Hello，我是张有路！ 在这里，我将为您
 |DIF202006291951|在线考试系统|IDEA|vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202006291951.md)|
 |DIF202008171627|学生管理系统|IDEA|vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>shiro|[跳转](difficult/preview/DIF202008171627.md)|
 |DIF202007091023|微人事|IDEA|vue<br>ElementUI|SpringBoot<br>Spring Security<br>Redis<br>RabbitMQ<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>fastdfs<br>websocket|[跳转](difficult/preview/DIF202007091023.md)|
-|DIF202103181537|问卷调查网站|IDEA|vue<br>ElementUI|SpringBoot<br>Spring Security<br>JPA<br>mysql<br>druid<br>maven<br>lombok|[跳转](medium/preview/DIF202103181537.md)|
+|DIF202103181537|问卷调查网站|IDEA|vue<br>ElementUI|SpringBoot<br>Spring Security<br>JPA<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202103181537.md)|
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
 
