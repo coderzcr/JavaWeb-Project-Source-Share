@@ -138,6 +138,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006231335|大学课程在线学习系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231335.md)|
 |MED202006281649|在线商城|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Easyui|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006281649.md)|
 |MED202007031411|酒店预订系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202007031411.md)|
+|MED202103181916|房屋租赁系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103181916.md)|
 |MED202006221929|学生选课系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202006221929.md)|
 |MED202007021905|校园订餐系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>shrio<br>lombok<br>maven|[跳转](medium/preview/MED202007021905.md)|
 |MED202006221550|汽车租赁管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221550.md)|
@@ -168,11 +169,12 @@ Hello，我是张有路！ 在这里，我将为您
 |DIF202006221640|黑马旅游网|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>servlet<br>jdbc<br>mysql<br>Druid<br>JdbcTemplate<br>maven<br>Redis|[跳转](difficult/preview/DIF202006221640.md)|
 |DIF202012291728|计算机专业认证在线考试系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>Druid<br>Spring Security|[跳转](difficult/preview/DIF202012291728.md)|
 |DIF202007021026|WePlay网上游戏商城(仿Steam)|IDEA|html<br>css<br>JavaScript<br>JQuery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>Redis<br>maven|[跳转](difficult/preview/DIF202007021026.md)|
-|DIF202006291932|在线音乐网站|IDEA|vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](difficult/preview/DIF202006291932.md)|
-|DIF202006291951|在线考试系统|IDEA|vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202006291951.md)|
-|DIF202008171627|学生管理系统|IDEA|vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>shiro|[跳转](difficult/preview/DIF202008171627.md)|
-|DIF202007091023|微人事|IDEA|vue<br>ElementUI|SpringBoot<br>Spring Security<br>Redis<br>RabbitMQ<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>fastdfs<br>websocket|[跳转](difficult/preview/DIF202007091023.md)|
-|DIF202103181537|问卷调查网站|IDEA|vue<br>ElementUI|SpringBoot<br>Spring Security<br>JPA<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202103181537.md)|
+|DIF202006291932|在线音乐网站|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](difficult/preview/DIF202006291932.md)|
+|DIF202006291951|在线考试系统|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202006291951.md)|
+|DIF202008171627|学生管理系统|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>shiro|[跳转](difficult/preview/DIF202008171627.md)|
+|DIF202007091023|微人事|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Spring Security<br>Redis<br>RabbitMQ<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>fastdfs<br>websocket|[跳转](difficult/preview/DIF202007091023.md)|
+|DIF202103181537|问卷调查网站|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Spring Security<br>JPA<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202103181537.md)|
+|DIF202103191441|校园招聘系统|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](difficult/preview/DIF202103191441.md)|
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
 
