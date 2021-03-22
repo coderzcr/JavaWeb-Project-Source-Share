@@ -135,9 +135,9 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202006221549|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221549.md)|
 |MED202103151511|图书馆管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103151511.md)|
 |MED202007011609|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202007011609.md)|
-|MED202006231304|在线考试系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>easyui|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231304.md)|
+|MED202006231304|在线考试系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231304.md)|
 |MED202006231335|大学课程在线学习系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231335.md)|
-|MED202006281649|在线商城|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Easyui|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006281649.md)|
+|MED202006281649|在线商城|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006281649.md)|
 |MED202007031411|酒店预订系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202007031411.md)|
 |MED202103181916|房屋租赁系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103181916.md)|
 |MED202006221929|学生选课系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202006221929.md)|
@@ -153,6 +153,8 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202010151839|教务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0<br>maven<br>shiro|[跳转](medium/preview/MED202010151839.md)|
 |MED202103151601|小区管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Velocity<br>SSM<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202103151601.md)|
 |MED202103181447|毕业设计（论文）管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>AmazeUI|SSM<br>mysql<br>druid<br>maven<br>shiro<br>Ehcache|[跳转](medium/preview/MED202103181447.md)|
+|MED202103221434|仿猫眼电影购票系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103221434.md)|
+|MED202103221530|敛书网电子书网站|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103221530.md)|
 |MED202006221554|家庭财务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202006221554.md)|
 |MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>SpringBoot<br>JPA<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
 |MED202006291920|医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202006291920.md)|
@@ -163,6 +165,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202103131415|迷你天猫商城|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SpringBoot<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202008101913.md)|
 |MED202103151722|疫情信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Thymeleaf<br>SpringBoot<br>Spring Security<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103151722.md)|
 |MED202103181601|EOF文件管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202103181601.md)|
+|MED202103221708|进销存管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven<br>lombok|[跳转](medium/preview/MED202103221708.md)|
 
 ### 困难(★★★★☆)[点我查看困难要求](difficult/difficult.md)
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
