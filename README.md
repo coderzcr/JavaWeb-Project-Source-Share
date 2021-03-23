@@ -155,6 +155,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202103181447|毕业设计（论文）管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>AmazeUI|SSM<br>mysql<br>druid<br>maven<br>shiro<br>Ehcache|[跳转](medium/preview/MED202103181447.md)|
 |MED202103221434|仿猫眼电影购票系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103221434.md)|
 |MED202103221530|敛书网电子书网站|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103221530.md)|
+|MED202103230935|宠物领养管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven<br>lombok|[跳转](medium/preview/MED202103230935.md)|
 |MED202006221554|家庭财务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Apache ECharts|thymeleaf<br>SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202006221554.md)|
 |MED202006221635|中小医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|thymeleaf<br>SpringBoot<br>JPA<br>mysql<br>HikariCP<br>maven<br>shiro<br>德卡D3 SDK<br>swagger|[跳转](medium/preview/MED202006221635.md)|
 |MED202006291920|医院信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|thymeleaf<br>SpringBoot<br>mybatis<br>mysql<br>druid<br>maven<br>shiro|[跳转](medium/preview/MED202006291920.md)|
