@@ -167,6 +167,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202103151722|疫情信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Thymeleaf<br>SpringBoot<br>Spring Security<br>mybatis<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202103151722.md)|
 |MED202103181601|EOF文件管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202103181601.md)|
 |MED202103221708|进销存管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven<br>lombok|[跳转](medium/preview/MED202103221708.md)|
+|MED202103231539|舒乐美食在线分享网站|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Thymeleaf<br>SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](medium/preview/MED202103231539.md)|
 
 ### 困难(★★★★☆)[点我查看困难要求](difficult/difficult.md)
 |源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
