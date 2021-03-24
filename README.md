@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://badgen.net/github/stars/coderzcr/JavaWeb-Project-Source-Share?icon=github&color=green" alt="star"></a>
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/badge/github-coderzcr-brightgreen.svg" alt="github"></a>
-  <a href="#前言"><img src="https://img.shields.io/badge/QQ群1(已满)-1029248321-brightgreen.svg" alt="加群"></a>
+  <a href="#前言"><img src="https://img.shields.io/badge/QQ群1(若满请加2群)-1029248321-brightgreen.svg" alt="加群"></a>
   <img src="https://img.shields.io/badge/QQ群2-700250156-brightgreen.svg" alt="加群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-brightgreen.svg" alt="公众号"></a>
 </p>
