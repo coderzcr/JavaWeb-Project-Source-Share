@@ -181,6 +181,7 @@ Hello，我是张有路！ 在这里，我将为您
 |DIF202007091023|微人事|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Spring Security<br>Redis<br>RabbitMQ<br>mybatis<br>mysql<br>druid<br>maven<br>lombok<br>fastdfs<br>websocket|[跳转](difficult/preview/DIF202007091023.md)|
 |DIF202103181537|问卷调查网站|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Spring Security<br>JPA<br>mysql<br>druid<br>maven<br>lombok|[跳转](difficult/preview/DIF202103181537.md)|
 |DIF202103191441|校园招聘系统|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mysql<br>HikariCP<br>maven|[跳转](difficult/preview/DIF202103191441.md)|
+|DIF202103241009|物流管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|SpringBoot<br>JPA<br>mysql<br>druid<br>maven<br>swagger|[跳转](difficult/preview/DIF202103241009.md)|
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
 
