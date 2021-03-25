@@ -68,6 +68,7 @@ Hello，我是张有路！ 在这里，我将为您
 |-|-|-|
 |NEW202007311522、MED202007311557、MED202007311603|模仿天猫网站|以Servlet、SSH、SSM三种形式实现了天猫网站，并附带详细的实现思路、说明文档|
 |EAS202008031933|学生管理系统|附带视频教程，跟随视频学习效率高且出错的可能性比较小|
+|MED202103171416|高校毕业生就业信息管理系统|附带论文和各种流程图|
 |DIF202006291932|在线音乐网站|附带实现思路、说明文档，适合学习|
 |DIF202007091023|微人事|附带实现思路、说明文档，适合学习|
 
@@ -147,7 +148,7 @@ Hello，我是张有路！ 在这里，我将为您
 |MED202007091054|人力资源管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven<br>spring security|[跳转](medium/preview/MED202007091054.md)|
 |MED202006221552|音乐网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven|[跳转](medium/preview/MED202006221552.md)|
 |MED202010140958|二手书交易系统|IDEA|html<br>css<br>JavaScript<br>Jquery|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202010140958.md)|
-|MED202103171416|大学生就业信息管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202103171416.md)|
+|MED202103171416|高校毕业生就业信息管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>DBCP<br>maven|[跳转](medium/preview/MED202103171416.md)|
 |MED202103181410|毕业设计管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202103181410.md)|
 |MED202008101923|快递代拿系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|SSM<br>mysql<br>druid<br>shiro<br>maven<br>沙箱版支付宝|[跳转](medium/preview/MED202008101923.md)|
 |MED202010151839|教务管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0<br>maven<br>shiro|[跳转](medium/preview/MED202010151839.md)|
