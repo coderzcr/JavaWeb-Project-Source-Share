@@ -17,20 +17,14 @@
 
 **[若访问速度慢，图片无法加载问题，请访问GITEE版本](https://gitee.com/coderzcr/JavaWeb-Project-Source-Share)**
 
-Hello，我是张有路！ 在这里，我将为您 
+Hello，我是张有路！ 在这里，我将为您分享流行技术实现的JavaWeb源码（包括但不局限于Servlet、SSH、SSM、SpringBoot）及相关技术的讲解。 
 
-1）分享流行技术实现的JavaWeb源码（包括但不局限于Servlet、SSH、SSM、SpringBoot）及相关技术的讲解。 
-
-2）对本仓库分享的代码进行免费的技术支持，但不涉及远程协助和修改代码。若远程协助或修改代码请加个人微信。 
-
-3）若您有项目或技术方面需求的JavaWeb源码，我帮您寻找。比如您需要“汽车租赁系统”或者是使用SSM实现的系统，可加入q群**1029248321(已满)**、**700250156**（备注“JavaWeb”）或微信群（扫描微信二维码，备注“JavaWeb”,我邀您入微信群），大胆提出来，这里**不止分享源码，还会分享技术视频，热门教程，实用工具**，欢迎您的加入。
-
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/mmqrcode1564277983207.png)
+因工作繁忙，且咨询量巨大，建议读者首先通过自己的钻研学习，试着自己理解，运行起来。如实在需咨询请通过**[知乎付费咨询](https://www.zhihu.com/consult/people/1278770697826422784?utm_source=wechat_session&utm_medium=social&utm_oi=716639827935637504)** ,当天肯定回复。
 
 
 ## 创建原因
 
-大家好，我是一个Java后端开发，加上实习经历已经工作4年。
+大家好，我是一个Java后端开发，加上实习经历已经工作5年。
 
 近日在知乎上发现了很多关于新手项目及工作经验的问题，比如
 - [GitHub 上有哪些适合新手跟进的优质项目？](https://www.zhihu.com/question/22744854/answer/763206431)
@@ -195,7 +189,6 @@ Hello，我是张有路！ 在这里，我将为您
 
 Java后端开发，5年工作经验。
 
-博客：[coderzcr.top](http://coderzcr.top)
 
 ## 公众号
 
@@ -204,13 +197,5 @@ Java后端开发，5年工作经验。
 <center>
     <img src="http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif" style="width: 100px;">
 </center>
-
-## 联系我
-
- - [知乎](https://www.zhihu.com/people/zhangcaoran)
- - [github](https://github.com/coderzcr)
- - [gitee](https://gitee.com/coderzcr)
- - [掘金](https://juejin.im/user/5d3e9df8f265da1b7f29c772)
- - 310834626@qq.com（推荐）
 
 
