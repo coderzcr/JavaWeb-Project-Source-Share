@@ -17,7 +17,7 @@
 
 Hello，我是张有路！ 在这里，我将为您分享流行技术实现的JavaWeb源码（包括但不局限于Servlet、SSH、SSM、SpringBoot）及相关技术的讲解。 
 
-因工作繁忙，且咨询量巨大，建议读者首先通过自己的钻研学习，试着自己理解，运行起来。如实在需咨询请通过 **[知乎付费咨询](https://www.zhihu.com/consult/people/1278770697826422784?utm_source=wechat_session&utm_medium=social&utm_oi=716639827935637504)**，当天肯定回复。
+如需帮助，可加作者微信**zr-310834626**,拉您入群，可远程协助启动Java项目，寻找JavaWeb源码，代码定制等。
 
 
 ## 创建原因
