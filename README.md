@@ -137,6 +137,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |MED202103181916|房屋租赁系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103181916.md)|
 |MED202006221929|学生选课系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202006221929.md)|
 |MED202007021905|校园订餐系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>shrio<br>lombok<br>maven|[跳转](medium/preview/MED202007021905.md)|
+|MED202110042201|校园快捷订餐|IDEA|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid<br>shrio<br>lombok<br>maven|[跳转](medium/preview/MED202110042201.md)|
 |MED202006221550|汽车租赁管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221550.md)|
 |MED202006231631|OA办公系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Layui<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>maven<br>lombok|[跳转](medium/preview/MED202006231631.md)|
 |MED202007091054|人力资源管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP<br>maven<br>spring security|[跳转](medium/preview/MED202007091054.md)|
