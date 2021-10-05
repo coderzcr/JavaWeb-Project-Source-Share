@@ -136,6 +136,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |MED202007031411|酒店预订系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202007031411.md)|
 |MED202103181916|房屋租赁系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103181916.md)|
 |MED202006221929|学生选课系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202006221929.md)|
+|MED202110051125|学生学籍管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Layui|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202110051125.md)|
 |MED202007021905|校园订餐系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>druid<br>shrio<br>lombok<br>maven|[跳转](medium/preview/MED202007021905.md)|
 |MED202110042201|校园快捷订餐|IDEA|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid<br>shrio<br>lombok<br>maven|[跳转](medium/preview/MED202110042201.md)|
 |MED202006221550|汽车租赁管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|Jsp<br>SSM<br>mysql<br>druid<br>maven|[跳转](medium/preview/MED202006221550.md)|
