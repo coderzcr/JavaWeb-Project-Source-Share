@@ -128,6 +128,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |MED202006221545|学生成绩管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>H-ui|Jsp<br>SSM<br>mysql<br>druid|[跳转](medium/preview/MED202006221545.md)|
 |MED202006221549|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221549.md)|
 |MED202103151511|图书馆管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202103151511.md)|
+|MED202204272026|网上书店系统|IDEA|html<br>css<br>JavaScript<br>Jquery|Jsp<br>SSM<br>mysql<br>DBCP|[跳转](medium/preview/MED202204272026.md)|
 |MED202007011609|学生管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0<br>maven|[跳转](medium/preview/MED202007011609.md)|
 |MED202006231304|在线考试系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231304.md)|
 |MED202006231335|大学课程在线学习系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>SSM<br>mysql<br>c3p0|[跳转](medium/preview/MED202006231335.md)|
