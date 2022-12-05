@@ -88,6 +88,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |NEW202007012223|二手交易网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007012223.md)|
 |NEW202007311522|模仿天猫网站|IDEA|html<br>css<br>JavaScript<br>jQuery<br>BootStrap|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202007311522.md)|
 |NEW202010170913|超市管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202010170913.md)|
+|NEW202212051538|挂号预约系统|IDEA|html<br>css<br>JavaScript|Jsp<br>Servlet<br>jdbc<br>mysql|[跳转](newcomer/preview/NEW202212051538.md)|
 
 ### 简单(★★☆☆☆)[点我查看简单要求](easy/easy.md)
 
