@@ -118,6 +118,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |MED202006221546|校园失物招领网站|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221546.md)|
 |MED202103251832|云朵家教网(上门家教管理系统)|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>Spring<br>SpringMVC<br>JdbcTemplate<br>mysql<br>c3p0|[跳转](medium/preview/MED202103251832.md)|
 |MED202103171416|高校毕业生就业信息管理系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>EasyUI|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>DBCP<br>maven|[跳转](medium/preview/MED202103171416.md)|
+|MED202212081643|高校就业管理分析平台|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap|Jsp<br>Spring<br>SpringMVC<br>Hibernate<br>mysql<br>druid|[跳转](medium/preview/MED202212081643.md)|
 |MED202006221537|学生管理系统|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql|[跳转](medium/preview/MED202006221537.md)|
 |MED202006221539|传智播客网上商城|Eclipse|html<br>css<br>JavaScript|Jsp<br>SSH<br>mysql<br>c3p0|[跳转](medium/preview/MED202006221539.md)|
 |MED202006221540|租车系统|Eclipse|html<br>css<br>JavaScript<br>Jquery<br>Bootstrap<br>Apache ECharts|Jsp<br>SSH<br>mysql<br>DBCP|[跳转](medium/preview/MED202006221540.md)|
