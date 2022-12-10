@@ -49,7 +49,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 
 ## 分享内容
 
-🌱🚀分享基于Servlet、SSH、SSM、SpringBoot等流行技术实现的JavaWeb项目。
+🌱🚀分享基于Servlet、SSH、SSM、SpringBoot、SpringCloud等流行技术实现的JavaWeb项目。
 
 ### 推荐项目
 
@@ -62,7 +62,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |MED202103171416|高校毕业生就业信息管理系统|附带论文和各种流程图|
 |DIF202006291932|在线音乐网站|附带实现思路、说明文档，适合学习|
 |DIF202007091023|微人事|附带实现思路、说明文档，适合学习|
-
+|DIF202212101509、EXP202212101413|小说精品屋|以SpringBoot、SpringCloud两种种形式实现了小说网站，并附带详细的说明文档|
 
 ### 难度等级说明
 
@@ -184,6 +184,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |DIF202103241009|物流管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|SpringBoot<br>JPA<br>mysql<br>druid<br>maven<br>swagger|[跳转](difficult/preview/DIF202103241009.md)|
 |DIF202210171914|云帆培训考试系统 开源版|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mybatisPlus<br>swagger<br>shiro<br>mysql<br>druid<br>maven|[跳转](difficult/preview/DIF202210171914.md)|
 |DIF202210191103|风丶宇的个人博客|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI<br>echarts|SpringBoot<br>mybatis<br>mybatisPlus<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>elasticsearch<br>RabbitMQ<br>MaxWell<br>Websocket|[跳转](difficult/preview/DIF202210191103.md)|
+|DIF202212101509|小说精品屋|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Sharding-JDBC<br>mybatis<br>MyBatis-Plus<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>Caffeine<br>xxl-job<br>elasticsearch<br>RabbitMQ|[跳转](expert/preview/DIF202212101509.md)|
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
 
