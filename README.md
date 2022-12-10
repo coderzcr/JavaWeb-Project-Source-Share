@@ -186,6 +186,9 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |DIF202210191103|风丶宇的个人博客|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI<br>echarts|SpringBoot<br>mybatis<br>mybatisPlus<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>elasticsearch<br>RabbitMQ<br>MaxWell<br>Websocket|[跳转](difficult/preview/DIF202210191103.md)|
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
+
+|源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
+|-|-|-|-|-|-|
 |EXP202212101413|小说精品屋|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>SpringCloud<br>nacos<br>Sentinel<br>SpringCloud Gateway<br>SpringBoot Admin<br>Sharding-JDBC<br>mybatis<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>elasticsearch<br>RabbitMQ|[跳转](expert/preview/EXP202212101413.md)|
 
 ## 自我介绍
