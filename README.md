@@ -64,6 +64,21 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |DIF202007091023|微人事|附带实现思路、说明文档，适合学习|
 |DIF202212101509、EXP202212101413|小说精品屋|以SpringBoot、SpringCloud两种种形式实现了小说网站，并附带详细的说明文档|
 
+### 快速开发脚手架
+快速开发脚手架的主要目的是封装通用功能，开发人员只需关注业务代码，快速开发。
+目前流行的框架为SpringBoot、SpringCloud，所以只收集这两种技术的脚手架。若无特殊技术要求，建议使用这两种技术开发系统。
+
+#### SpringBoot
+|源码名称|前后端分离|推荐原因|详述|
+|-|-|-|-|
+|RuoYi|否|若依基于SpringBoot2.0的权限管理系统 易读易懂、界面简洁美观，文档齐全。核心技术采用SpringBoot、MyBatis、Shiro、Thymeleaf、Bootstrap、Vue没有任何其它重度依赖。直接运行即可用|[跳转](https://gitee.com/y_project/RuoYi)|
+|RuoYi-Vue|是|RuoYi前后端分离版本。 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本|[跳转](https://gitee.com/y_project/RuoYi-Vue)|
+
+#### SpringCloud
+|源码名称|推荐原因|详述|
+|-|-|-|
+|RuoYi-Cloud|RuoYi微服务版本。基于Spring Boot、Spring Cloud & Alibaba的分布式微服务架构权限管理系统，同时提供了 Vue3 的版本|[跳转](https://gitee.com/y_project/RuoYi-Cloud)|
+
 ### 难度等级说明
 
 本仓库中的项目难度分为5个等级，包括新手、简单、中等、困难和专家。
