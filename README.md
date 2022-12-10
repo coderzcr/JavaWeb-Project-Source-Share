@@ -73,6 +73,7 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |-|-|-|-|
 |RuoYi|否|若依基于SpringBoot2.0的权限管理系统 易读易懂、界面简洁美观，文档齐全。核心技术采用SpringBoot、MyBatis、Shiro、Thymeleaf、Bootstrap、Vue没有任何其它重度依赖。直接运行即可用|[跳转](https://gitee.com/y_project/RuoYi)|
 |RuoYi-Vue|是|RuoYi前后端分离版本。 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本|[跳转](https://gitee.com/y_project/RuoYi-Vue)|
+|Snowy|是|采用SpringBoot+MybatisPlus+AntDesignVue+Vite 等更多优秀组件及前沿技术开发，注释丰富，代码简洁，开箱即用！|[跳转](https://gitee.com/xiaonuobase/snowy)|
 
 #### SpringCloud
 |源码名称|推荐原因|详述|
