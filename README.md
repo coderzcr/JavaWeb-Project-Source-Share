@@ -198,8 +198,8 @@ Hello，我是张有路！ 在这里，我将为您分享流行技术实现的Ja
 |DIF202103241009|物流管理系统|IDEA|html<br>css<br>JavaScript<br>Jquery<br>Layui|SpringBoot<br>JPA<br>mysql<br>druid<br>maven<br>swagger|[跳转](difficult/preview/DIF202103241009.md)|
 |DIF202210171914|云帆培训考试系统 开源版|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>mybatis<br>mybatisPlus<br>swagger<br>shiro<br>mysql<br>druid<br>maven|[跳转](difficult/preview/DIF202210171914.md)|
 |DIF202210191103|风丶宇的个人博客|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI<br>echarts|SpringBoot<br>mybatis<br>mybatisPlus<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>elasticsearch<br>RabbitMQ<br>MaxWell<br>Websocket|[跳转](difficult/preview/DIF202210191103.md)|
-|DIF202212101509|小说精品屋|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Sharding-JDBC<br>mybatis<br>MyBatis-Plus<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>Caffeine<br>xxl-job<br>elasticsearch<br>RabbitMQ|[跳转](expert/preview/DIF202212101509.md)|
-|DIF202310141410|春松客服|IDEA|html<br>css<br>JavaScript<br>JQuery<br>LayUI|pug4j<br>SpringBoot<br>JPA<br>Redis<br>ActiveMQ<br>mysql<br>maven|[跳转](expert/preview/DIF202310141410.md)|
+|DIF202212101509|小说精品屋|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>Sharding-JDBC<br>mybatis<br>MyBatis-Plus<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>Caffeine<br>xxl-job<br>elasticsearch<br>RabbitMQ|[跳转](difficult/preview/DIF202212101509.md)|
+|DIF202310141410|春松客服|IDEA|html<br>css<br>JavaScript<br>JQuery<br>LayUI|pug4j<br>SpringBoot<br>JPA<br>Redis<br>ActiveMQ<br>mysql<br>maven|[跳转](difficult/preview/DIF202310141410.md)|
 
 
 ### 专家(★★★★★)[点我查看专家要求](expert/expert.md)
