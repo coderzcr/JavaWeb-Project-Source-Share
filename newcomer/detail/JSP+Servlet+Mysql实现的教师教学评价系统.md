@@ -85,14 +85,14 @@
 ![](picture/3f3dc3bf-b02c-488e-ba17-5644ba0d.png)
 
 
-![](https://files.mdnice.com/user/1157/0bb2f7f2-6b8f-4cef-a1c2-d8c20286f359.png)
+![](picture/0bb2f7f2-6b8f-4cef-a1c2-d8c20286.png)
 3. **数据库创建**： 创建db_pingjia数据库，并执行`学生测评系统\pingjia\数据库\db_pingjia.sql`文件。
 
 4. **配置环境**：根据开发环境准备部分的要求，配置Tomcat、JDK和在IDEA中，选择“File” -> “Project Structure” -> “Project”，然后设置JDK和Tomcat。
 
 5. **数据库配置修改**：将`com.dao.DB`类修改为自己的数据库。
 
-![](https://files.mdnice.com/user/1157/583458a2-3783-41b3-a85f-c6972d9a155d.png)
+![](picture/583458a2-3783-41b3-a85f-c6972d9a.png)
 
 
 6. **部署项目**：将项目部署到Tomcat服务器上。在IDEA中，选择“Run” -> “Edit Configurations”，然后添加一个新的Tomcat Server配置，选择项目的Web模块。
@@ -114,15 +114,15 @@
 
 1. **登录界面**：用户输入用户名和密码进行登录。
 
-![](https://files.mdnice.com/user/1157/639d749c-4ed1-4c03-b924-42edc24ed5cd.png)
+![](picture/639d749c-4ed1-4c03-b924-42edc24e.png)
 
 2. **管理员界面**：管理员可以管理教师和学生信息。
 
-![](https://files.mdnice.com/user/1157/f3402ec3-57b4-442e-b296-01ac22d451c1.png)
+![](picture/f3402ec3-57b4-442e-b296-01ac22d4.png)
 
 3. **学生界面**：学生可以查看个人信息和评价教师。
 
-![](https://files.mdnice.com/user/1157/83fdacb8-0ecb-4f04-aeec-99a8f8a31b8a.png)
+![](picture/83fdacb8-0ecb-4f04-aeec-99a8f8a3.png)
 
 
 ## 总结
@@ -137,6 +137,6 @@
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](https://files.mdnice.com/user/1157/a34b81f3-32d6-44b3-be29-4d6ed94475eb.png)
+![](../../../public/picture1718932338935FE4341CDFE56F733.gif)
 
 
