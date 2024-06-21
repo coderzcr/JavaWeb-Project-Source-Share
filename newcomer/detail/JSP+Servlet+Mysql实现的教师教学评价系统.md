@@ -82,17 +82,17 @@
 1. **下载源码**：访问[https://github.com/coderzcr/JavaWeb-Project-Source-Share/blob/master/newcomer/preview/NEW202006281642.md](https://github.com/coderzcr/JavaWeb-Project-Source-Share/blob/master/newcomer/preview/NEW202006281642.md)。通过百度网盘下载源码。
 2. **导入项目**：将源码导入到IDEA中。例如，打开IDEA，选择“File” -> “New” -> “Project from Existing Sources”，然后选择下载的源码目录 -> “Import project from external model”  -> "Eclipse",之后一直Next即可。
 
-![](picture/3f3dc3bf-b02c-488e-ba17-5644ba0d.png)
+![](../../public/picture/3f3dc3bf-b02c-488e-ba17-5644ba0d.png)
 
 
-![](picture/0bb2f7f2-6b8f-4cef-a1c2-d8c20286.png)
+![](../../public/picture/0bb2f7f2-6b8f-4cef-a1c2-d8c20286.png)
 3. **数据库创建**： 创建db_pingjia数据库，并执行`学生测评系统\pingjia\数据库\db_pingjia.sql`文件。
 
 4. **配置环境**：根据开发环境准备部分的要求，配置Tomcat、JDK和在IDEA中，选择“File” -> “Project Structure” -> “Project”，然后设置JDK和Tomcat。
 
 5. **数据库配置修改**：将`com.dao.DB`类修改为自己的数据库。
 
-![](picture/583458a2-3783-41b3-a85f-c6972d9a.png)
+![](../../public/picture/583458a2-3783-41b3-a85f-c6972d9a.png)
 
 
 6. **部署项目**：将项目部署到Tomcat服务器上。在IDEA中，选择“Run” -> “Edit Configurations”，然后添加一个新的Tomcat Server配置，选择项目的Web模块。
@@ -114,15 +114,15 @@
 
 1. **登录界面**：用户输入用户名和密码进行登录。
 
-![](picture/639d749c-4ed1-4c03-b924-42edc24e.png)
+![](../../public/picture/639d749c-4ed1-4c03-b924-42edc24e.png)
 
 2. **管理员界面**：管理员可以管理教师和学生信息。
 
-![](picture/f3402ec3-57b4-442e-b296-01ac22d4.png)
+![](../../public/picture/f3402ec3-57b4-442e-b296-01ac22d4.png)
 
 3. **学生界面**：学生可以查看个人信息和评价教师。
 
-![](picture/83fdacb8-0ecb-4f04-aeec-99a8f8a3.png)
+![](../../public/picture/83fdacb8-0ecb-4f04-aeec-99a8f8a3.png)
 
 
 ## 总结
