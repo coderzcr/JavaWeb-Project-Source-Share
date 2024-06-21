@@ -60,13 +60,13 @@ git clone https://gitee.com/darlingzhangsh/graduation_project.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135301.png)
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135302.png)
-![支出管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135303.png)
-![统计报表](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135304.png)
-![收入管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135305.png)
-![用户管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135306.png)
-![角色管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135307.png)
+![登录](../../public/oldPicturesFromGitee/blog20200417135301.png)
+![首页](../../public/oldPicturesFromGitee/blog20200417135302.png)
+![支出管理](../../public/oldPicturesFromGitee/blog20200417135303.png)
+![统计报表](../../public/oldPicturesFromGitee/blog20200417135304.png)
+![收入管理](../../public/oldPicturesFromGitee/blog20200417135305.png)
+![用户管理](../../public/oldPicturesFromGitee/blog20200417135306.png)
+![角色管理](../../public/oldPicturesFromGitee/blog20200417135307.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -88,6 +88,6 @@ git clone https://gitee.com/darlingzhangsh/graduation_project.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

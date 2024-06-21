@@ -39,7 +39,7 @@ tomcat版本：9.0.33（个人测试使用）
 ```
 https://github.com/mafulong/databaseExper-hotelMaster.git
 ```
-**若下载过慢可将github仓库复制到gitee上。** [查看视频](http://coderzcr.gitee.io/sensor-java-picture/pictures/GitHub下载慢怎么办？.mp4)
+**若下载过慢可将github仓库复制到gitee上。** [查看视频](../../public/oldPicturesFromGitee/GitHub下载慢怎么办？.mp4)
 
 2.使用Idea打开项目，配置maven，如果maven中央仓库下载过慢可以新建镜像映射到阿里云的中央仓库，具体细节不细说啦。
 
@@ -62,13 +62,13 @@ https://github.com/mafulong/databaseExper-hotelMaster.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112301.png)
-![管理员树图](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112302.png)
-![业务数据统计](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112303.png)
-![新增员工](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112304.png)
-![住房](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112305.png)
-![客房查询](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112306.png)
-![所有订单](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200324112307.png)
+![登录](../../public/oldPicturesFromGitee/blog20200324112301.png)
+![管理员树图](../../public/oldPicturesFromGitee/blog20200324112302.png)
+![业务数据统计](../../public/oldPicturesFromGitee/blog20200324112303.png)
+![新增员工](../../public/oldPicturesFromGitee/blog20200324112304.png)
+![住房](../../public/oldPicturesFromGitee/blog20200324112305.png)
+![客房查询](../../public/oldPicturesFromGitee/blog20200324112306.png)
+![所有订单](../../public/oldPicturesFromGitee/blog20200324112307.png)
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过github地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -86,4 +86,4 @@ https://github.com/mafulong/databaseExper-hotelMaster.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)

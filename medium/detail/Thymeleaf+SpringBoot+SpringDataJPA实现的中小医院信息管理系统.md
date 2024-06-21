@@ -3,7 +3,7 @@
 >项目来源于：[https://gitee.com/sensay/hisystem](https://gitee.com/sensay/hisystem)
 
 **作者介绍**
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417155507.png)
+![登录](../../public/oldPicturesFromGitee/blog20200417155507.png)
 
 本系统是基于**Thymeleaf+SpringBoot+SpringDataJPA**实现的的中小医院信息管理系统。简单实现了挂号收费，门诊管理，划价收费，药房取药，体检管理，药房管理，系统维护等基础功能。
 
@@ -70,12 +70,12 @@ git clone https://gitee.com/sensay/hisystem.git
 
 
 ## 项目截图
-![挂号收费](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417155501.png)
-![挂号记录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417155502.png)
-![门诊管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417155503.png)
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417155504.png)
-![划价收费](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417155505.png)
-![药房取药](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200417135306.png)
+![挂号收费](../../public/oldPicturesFromGitee/blog20200417155501.png)
+![挂号记录](../../public/oldPicturesFromGitee/blog20200417155502.png)
+![门诊管理](../../public/oldPicturesFromGitee/blog20200417155503.png)
+![登录](../../public/oldPicturesFromGitee/blog20200417155504.png)
+![划价收费](../../public/oldPicturesFromGitee/blog20200417155505.png)
+![药房取药](../../public/oldPicturesFromGitee/blog20200417135306.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -97,6 +97,6 @@ git clone https://gitee.com/sensay/hisystem.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

@@ -60,10 +60,10 @@ https://gitee.com/zhp0514/java_web_movie_website_project.git
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200320112601.png)
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200320112602.png)
-![后台首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200320112603.png)
-![电影管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200320112604.png)
+![首页](../../public/oldPicturesFromGitee/blog20200320112601.png)
+![登录](../../public/oldPicturesFromGitee/blog20200320112602.png)
+![后台首页](../../public/oldPicturesFromGitee/blog20200320112603.png)
+![电影管理](../../public/oldPicturesFromGitee/blog20200320112604.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -80,5 +80,5 @@ https://gitee.com/zhp0514/java_web_movie_website_project.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![公众号二维码](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![公众号二维码](../../public/oldPicturesFromGitee/qrcode.gif)
 

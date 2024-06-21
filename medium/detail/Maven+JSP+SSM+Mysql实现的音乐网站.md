@@ -71,12 +71,12 @@ git clone https://gitee.com/coder_ze/iMusic.git
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522155901.png)
-![排行榜](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522155902.png)
-![个人信息](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522155903.png)
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522155904.png)
-![管理员首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522155905.png)
-![文件管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522155906.png)
+![首页](../../public/oldPicturesFromGitee/blog20200522155901.png)
+![排行榜](../../public/oldPicturesFromGitee/blog20200522155902.png)
+![个人信息](../../public/oldPicturesFromGitee/blog20200522155903.png)
+![登录](../../public/oldPicturesFromGitee/blog20200522155904.png)
+![管理员首页](../../public/oldPicturesFromGitee/blog20200522155905.png)
+![文件管理](../../public/oldPicturesFromGitee/blog20200522155906.png)
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过gitee地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -97,6 +97,6 @@ git clone https://gitee.com/coder_ze/iMusic.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

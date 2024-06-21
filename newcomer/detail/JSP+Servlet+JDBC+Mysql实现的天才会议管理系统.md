@@ -35,16 +35,16 @@ tomcat版本：9.0.33（个人测试使用）
 
 ## 本地运行
 ### Eclipse环境准备
-1.[eclipse新增jdk](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
+1.[eclipse新增jdk](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
 
-2.[eclipse新增tomcat](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
+2.[eclipse新增tomcat](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
 
 ### 导入项目
 1.下载zip直接解压或安装git后执行克隆命令 
 ```
 https://github.com/hegexunmeng/meeting-system.git
 ```
-**若下载过慢可将github仓库复制到gitee上。** [查看视频](http://coderzcr.gitee.io/sensor-java-picture/pictures/GitHub下载慢怎么办？.mp4)
+**若下载过慢可将github仓库复制到gitee上。** [查看视频](../../public/oldPicturesFromGitee/GitHub下载慢怎么办？.mp4)
 
 2.使用eclipse打开项目，配置jdk、tomcat和所需jar包。
 项目所依赖jar包在**WebContent/WEB-INF/lib**文件夹下。
@@ -64,12 +64,12 @@ https://github.com/hegexunmeng/meeting-system.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200326165801.png)
-![最新通知](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200326165802.png)
-![我的预定](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200326165803.png)
-![我的会议](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200326165804.png)
-![部门管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200326165805.png)
-![查看会议室](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200326165806.png)
+![登录](../../public/oldPicturesFromGitee/blog20200326165801.png)
+![最新通知](../../public/oldPicturesFromGitee/blog20200326165802.png)
+![我的预定](../../public/oldPicturesFromGitee/blog20200326165803.png)
+![我的会议](../../public/oldPicturesFromGitee/blog20200326165804.png)
+![部门管理](../../public/oldPicturesFromGitee/blog20200326165805.png)
+![查看会议室](../../public/oldPicturesFromGitee/blog20200326165806.png)
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过github地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -87,4 +87,4 @@ https://github.com/hegexunmeng/meeting-system.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)

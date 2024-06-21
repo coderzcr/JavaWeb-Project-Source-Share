@@ -61,12 +61,12 @@ tomcat版本：8.5.34（个人测试使用）
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200331141501.png)
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200331141502.png)
-![注册](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200331141503.png)
-![详情页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200331141504.png)
-![购物车](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200331141505.png)
-![订单](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200331141506.png)
+![首页](../../public/oldPicturesFromGitee/blog20200331141501.png)
+![登录](../../public/oldPicturesFromGitee/blog20200331141502.png)
+![注册](../../public/oldPicturesFromGitee/blog20200331141503.png)
+![详情页](../../public/oldPicturesFromGitee/blog20200331141504.png)
+![购物车](../../public/oldPicturesFromGitee/blog20200331141505.png)
+![订单](../../public/oldPicturesFromGitee/blog20200331141506.png)
 
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -88,5 +88,5 @@ tomcat版本：8.5.34（个人测试使用）
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 

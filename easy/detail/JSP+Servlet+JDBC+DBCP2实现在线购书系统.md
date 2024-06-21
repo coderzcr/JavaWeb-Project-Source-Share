@@ -55,13 +55,13 @@ tomcat版本：8.5.34（个人测试使用）
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143801.jpeg)
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143802.jpeg)
-![搜索](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143803.jpeg)
-![详情](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143804.jpeg)
-![购物车](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143805.jpeg)
-![后台-图书列表](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143806.jpeg)
-![后台-图书分类 ](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200201143807.jpeg)
+![登录](../../public/oldPicturesFromGitee/blog20200201143801.jpeg)
+![首页](../../public/oldPicturesFromGitee/blog20200201143802.jpeg)
+![搜索](../../public/oldPicturesFromGitee/blog20200201143803.jpeg)
+![详情](../../public/oldPicturesFromGitee/blog20200201143804.jpeg)
+![购物车](../../public/oldPicturesFromGitee/blog20200201143805.jpeg)
+![后台-图书列表](../../public/oldPicturesFromGitee/blog20200201143806.jpeg)
+![后台-图书分类 ](../../public/oldPicturesFromGitee/blog20200201143807.jpeg)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -70,5 +70,5 @@ tomcat版本：8.5.34（个人测试使用）
 
 
   [1]: https://zhuanlan.zhihu.com/p/104589778
-  [2]: http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4
-  [3]: http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4
+  [2]: ../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4
+  [3]: ../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4

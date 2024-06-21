@@ -60,13 +60,13 @@ git clone https://gitee.com/huang_xiao_feng/carrentalsystem.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161101.png)
-![后台首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161102.png)
-![客户管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161103.png)
-![车辆管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161104.png)
-![车辆出租](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161105.png)
-![系统管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161106.png)
-![统计分析](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200506161107.png)
+![登录](../../public/oldPicturesFromGitee/blog20200506161101.png)
+![后台首页](../../public/oldPicturesFromGitee/blog20200506161102.png)
+![客户管理](../../public/oldPicturesFromGitee/blog20200506161103.png)
+![车辆管理](../../public/oldPicturesFromGitee/blog20200506161104.png)
+![车辆出租](../../public/oldPicturesFromGitee/blog20200506161105.png)
+![系统管理](../../public/oldPicturesFromGitee/blog20200506161106.png)
+![统计分析](../../public/oldPicturesFromGitee/blog20200506161107.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -88,6 +88,6 @@ git clone https://gitee.com/huang_xiao_feng/carrentalsystem.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

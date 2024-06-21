@@ -71,12 +71,12 @@ git clone https://github.com/SuperiorNature/Java-Enterprise-electronic-mall.git
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200603101901.png)
-![销售排行](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200603101902.png)
-![新品上架](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200603101903.png)
-![特价商品](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200603101904.png)
-![后台管理登录页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200603101905.png)
-![后台管理首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200603101906.png)
+![首页](../../public/oldPicturesFromGitee/blog20200603101901.png)
+![销售排行](../../public/oldPicturesFromGitee/blog20200603101902.png)
+![新品上架](../../public/oldPicturesFromGitee/blog20200603101903.png)
+![特价商品](../../public/oldPicturesFromGitee/blog20200603101904.png)
+![后台管理登录页](../../public/oldPicturesFromGitee/blog20200603101905.png)
+![后台管理首页](../../public/oldPicturesFromGitee/blog20200603101906.png)
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过gitee地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -97,6 +97,6 @@ git clone https://github.com/SuperiorNature/Java-Enterprise-electronic-mall.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

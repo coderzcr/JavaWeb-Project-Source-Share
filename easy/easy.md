@@ -11,5 +11,5 @@
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
 <center>
-    <img src="http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif" style="width: 100px;">
+    <img src="../public/oldPicturesFromGitee/qrcode.gif" style="width: 100px;">
 </center>

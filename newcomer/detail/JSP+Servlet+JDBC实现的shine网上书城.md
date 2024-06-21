@@ -30,9 +30,9 @@ jdk版本：1.8.0_181（个人测试使用）
 tomcat版本：8.5.34（个人测试使用）
 ## 本地运行
 ### Eclipse环境准备
-1.[eclipse新增jdk](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
+1.[eclipse新增jdk](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
 
-2.[eclipse新增tomcat](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
+2.[eclipse新增tomcat](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
 ### 导入项目
 1.下载zip直接解压或安装git后执行克隆命令
 ```
@@ -267,9 +267,9 @@ FROM
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200317161201.png)
-![购物车](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200317161202.png)
-![后台主页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200317161203.png)
+![首页](../../public/oldPicturesFromGitee/blog20200317161201.png)
+![购物车](../../public/oldPicturesFromGitee/blog20200317161202.png)
+![后台主页](../../public/oldPicturesFromGitee/blog20200317161203.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。

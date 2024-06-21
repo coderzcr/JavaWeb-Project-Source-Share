@@ -35,9 +35,9 @@ tomcat版本：7.0.47（个人测试使用）
 ## 本地运行
 
 ### Eclipse环境准备
-1.[eclipse新增jdk](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
+1.[eclipse新增jdk](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
 
-2.[eclipse新增tomcat](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
+2.[eclipse新增tomcat](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
 
 ### 导入项目
 
@@ -75,13 +75,13 @@ git clone https://github.com/1462656075/car
 - 将**car\my\upload**文件夹发布到tomcat中，发布路径为/upload。若不配置，则项目中图片无法访问。
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143801.png)
-![客户登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143802.png)
-![汽车详情](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143803.png)
-![租车](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143804.png)
-![我的订单](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143805.png)
-![车辆管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143806.png)
-![订单管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200604143807.png)
+![首页](../../public/oldPicturesFromGitee/blog20200604143801.png)
+![客户登录](../../public/oldPicturesFromGitee/blog20200604143802.png)
+![汽车详情](../../public/oldPicturesFromGitee/blog20200604143803.png)
+![租车](../../public/oldPicturesFromGitee/blog20200604143804.png)
+![我的订单](../../public/oldPicturesFromGitee/blog20200604143805.png)
+![车辆管理](../../public/oldPicturesFromGitee/blog20200604143806.png)
+![订单管理](../../public/oldPicturesFromGitee/blog20200604143807.png)
 
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -103,6 +103,6 @@ git clone https://github.com/1462656075/car
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

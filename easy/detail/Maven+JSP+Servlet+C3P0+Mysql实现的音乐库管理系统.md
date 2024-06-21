@@ -63,12 +63,12 @@ git clone https://gitee.com/sunnyandgood/OnlineMusic.git
 
 
 ## 项目截图
-![用户登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522151201.png)
-![用户信息](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522151202.png)
-![音乐库](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522151203.png)
-![管理员登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522151204.png)
-![音乐管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522151205.png)
-![歌曲分类管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200522151206.png)
+![用户登录](../../public/oldPicturesFromGitee/blog20200522151201.png)
+![用户信息](../../public/oldPicturesFromGitee/blog20200522151202.png)
+![音乐库](../../public/oldPicturesFromGitee/blog20200522151203.png)
+![管理员登录](../../public/oldPicturesFromGitee/blog20200522151204.png)
+![音乐管理](../../public/oldPicturesFromGitee/blog20200522151205.png)
+![歌曲分类管理](../../public/oldPicturesFromGitee/blog20200522151206.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -90,6 +90,6 @@ git clone https://gitee.com/sunnyandgood/OnlineMusic.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share" target="_blank">
-	<img src="http://coderzcr.gitee.io/sensor-java-picture/pictures/zcr's blog.png" width="30%"/>
+	<img src="public/oldPicturesFromGitee/zcr's blog.png" width="30%"/>
 </a>
 </p>
 
@@ -220,7 +220,7 @@ Java后端开发，7年工作经验。
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
 <center>
-    <img src="http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif" style="width: 100px;">
+    <img src="public/oldPicturesFromGitee/qrcode.gif" style="width: 100px;">
 </center>
 
 

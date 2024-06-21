@@ -71,12 +71,12 @@ https://gitee.com/glotion/servlet-jsp_news.git
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200402164701.png)
-![文章详情页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200402164702.png)
-![后台登录页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200402164703.png)
-![分类管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200402164704.png)
-![文章管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200402164705.png)
-![发表新闻](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200402164706.png)
+![首页](../../public/oldPicturesFromGitee/blog20200402164701.png)
+![文章详情页](../../public/oldPicturesFromGitee/blog20200402164702.png)
+![后台登录页](../../public/oldPicturesFromGitee/blog20200402164703.png)
+![分类管理](../../public/oldPicturesFromGitee/blog20200402164704.png)
+![文章管理](../../public/oldPicturesFromGitee/blog20200402164705.png)
+![发表新闻](../../public/oldPicturesFromGitee/blog20200402164706.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -98,5 +98,5 @@ https://gitee.com/glotion/servlet-jsp_news.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 

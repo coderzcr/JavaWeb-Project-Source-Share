@@ -41,7 +41,7 @@ jdk版本：1.8.0_181（个人测试使用）
 ```
 git clone https://github.com/liuyongfei-1998/root.git
 ```
-**若下载过慢可将github仓库复制到gitee上。** [查看视频](http://coderzcr.gitee.io/sensor-java-picture/pictures/GitHub下载慢怎么办？.mp4)
+**若下载过慢可将github仓库复制到gitee上。** [查看视频](../../public/oldPicturesFromGitee/GitHub下载慢怎么办？.mp4)
 
 2.使用idea打开项目，配置maven、jdk即可。
 
@@ -65,14 +65,14 @@ git clone https://github.com/liuyongfei-1998/root.git
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133701.png)
-![旅游路线](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133702.png)
-![注意事项](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133703.png)
-![会员登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133704.png)
-![后台登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133705.png)
-![后台首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133706.png)
-![内容管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133707.png)
-![数据分析](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200424133708.png)
+![首页](../../public/oldPicturesFromGitee/blog20200424133701.png)
+![旅游路线](../../public/oldPicturesFromGitee/blog20200424133702.png)
+![注意事项](../../public/oldPicturesFromGitee/blog20200424133703.png)
+![会员登录](../../public/oldPicturesFromGitee/blog20200424133704.png)
+![后台登录](../../public/oldPicturesFromGitee/blog20200424133705.png)
+![后台首页](../../public/oldPicturesFromGitee/blog20200424133706.png)
+![内容管理](../../public/oldPicturesFromGitee/blog20200424133707.png)
+![数据分析](../../public/oldPicturesFromGitee/blog20200424133708.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -94,6 +94,6 @@ git clone https://github.com/liuyongfei-1998/root.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

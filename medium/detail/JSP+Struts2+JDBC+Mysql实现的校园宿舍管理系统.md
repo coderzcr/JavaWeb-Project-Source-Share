@@ -32,9 +32,9 @@ tomcat版本：8.5.34（个人测试使用）
 ## 本地运行
 
 ### Eclipse环境准备
-1.[eclipse新增jdk](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
+1.[eclipse新增jdk](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
 
-2.[eclipse新增tomcat](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
+2.[eclipse新增tomcat](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
 
 ### 导入项目
 
@@ -68,11 +68,11 @@ private String dbUrl="jdbc:mysql://localhost:3306/sushe?characterEncoding=utf-8"
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200410152401.png)
-![系统管理员首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200410152402.png)
-![楼宇管理员管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200410152403.png)
-![学生管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200410152404.png)
-![学生入住登记](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200410152405.png)
+![登录](../../public/oldPicturesFromGitee/blog20200410152401.png)
+![系统管理员首页](../../public/oldPicturesFromGitee/blog20200410152402.png)
+![楼宇管理员管理](../../public/oldPicturesFromGitee/blog20200410152403.png)
+![学生管理](../../public/oldPicturesFromGitee/blog20200410152404.png)
+![学生入住登记](../../public/oldPicturesFromGitee/blog20200410152405.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -94,6 +94,6 @@ private String dbUrl="jdbc:mysql://localhost:3306/sushe?characterEncoding=utf-8"
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

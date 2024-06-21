@@ -36,9 +36,9 @@ tomcat版本：8.5.34（个人测试使用）
 ## 本地运行
 
 ### Eclipse环境准备
-1.[eclipse新增jdk](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
+1.[eclipse新增jdk](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
 
-2.[eclipse新增tomcat](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
+2.[eclipse新增tomcat](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
 
 ### 导入项目
 
@@ -48,7 +48,7 @@ tomcat版本：8.5.34（个人测试使用）
 ```
 git clone https://github.com/ruou/hr.git
 ```
-**若下载过慢可将github仓库复制到gitee上。** [查看视频](http://coderzcr.gitee.io/sensor-java-picture/pictures/GitHub下载慢怎么办？.mp4)
+**若下载过慢可将github仓库复制到gitee上。** [查看视频](../../public/oldPicturesFromGitee/GitHub下载慢怎么办？.mp4)
 
 
 2.使用eclipse导入项目，配置jdk、tomcat和所需jar包。
@@ -69,12 +69,12 @@ git clone https://github.com/ruou/hr.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200508163601.png)
-![系统管理员首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200508163602.png)
-![招聘管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200508163603.png)
-![培训管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200508163604.png)
-![薪金管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200508163605.png)
-![用户管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200508163606.png)
+![登录](../../public/oldPicturesFromGitee/blog20200508163601.png)
+![系统管理员首页](../../public/oldPicturesFromGitee/blog20200508163602.png)
+![招聘管理](../../public/oldPicturesFromGitee/blog20200508163603.png)
+![培训管理](../../public/oldPicturesFromGitee/blog20200508163604.png)
+![薪金管理](../../public/oldPicturesFromGitee/blog20200508163605.png)
+![用户管理](../../public/oldPicturesFromGitee/blog20200508163606.png)
 
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -96,6 +96,6 @@ git clone https://github.com/ruou/hr.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

@@ -62,13 +62,13 @@ git clone https://gitee.com/wu_yun_long/student_management_system.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141401.png)
-![学生缴费预览](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141402.png)
-![用户信息预览](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141403.png)
-![班级信息预览](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141404.png)
-![成绩信息预览](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141405.png)
-![班级课程设置](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141406.png)
-![基本课程设置](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200422141407.png)
+![登录](../../public/oldPicturesFromGitee/blog20200422141401.png)
+![学生缴费预览](../../public/oldPicturesFromGitee/blog20200422141402.png)
+![用户信息预览](../../public/oldPicturesFromGitee/blog20200422141403.png)
+![班级信息预览](../../public/oldPicturesFromGitee/blog20200422141404.png)
+![成绩信息预览](../../public/oldPicturesFromGitee/blog20200422141405.png)
+![班级课程设置](../../public/oldPicturesFromGitee/blog20200422141406.png)
+![基本课程设置](../../public/oldPicturesFromGitee/blog20200422141407.png)
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过gitee地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -89,6 +89,6 @@ git clone https://gitee.com/wu_yun_long/student_management_system.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

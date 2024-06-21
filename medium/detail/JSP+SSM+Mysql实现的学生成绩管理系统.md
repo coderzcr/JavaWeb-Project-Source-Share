@@ -72,12 +72,12 @@ git clone https://gitee.com/z77z/StuSystem.git
 
 
 ## 项目截图
-![登录页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200602183101.png)
-![管理员首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200602183102.png)
-![教师信息管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200602183103.png)
-![学生信息管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200602183104.png)
-![课程信息管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200602183105.png)
-![学生成绩管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200602183106.png)
+![登录页](../../public/oldPicturesFromGitee/blog20200602183101.png)
+![管理员首页](../../public/oldPicturesFromGitee/blog20200602183102.png)
+![教师信息管理](../../public/oldPicturesFromGitee/blog20200602183103.png)
+![学生信息管理](../../public/oldPicturesFromGitee/blog20200602183104.png)
+![课程信息管理](../../public/oldPicturesFromGitee/blog20200602183105.png)
+![学生成绩管理](../../public/oldPicturesFromGitee/blog20200602183106.png)
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过gitee地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -98,6 +98,6 @@ git clone https://gitee.com/z77z/StuSystem.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 

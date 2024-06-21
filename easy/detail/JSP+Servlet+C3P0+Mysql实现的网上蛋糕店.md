@@ -74,13 +74,13 @@ https://gitee.com/PositiveMumu/CakesShop.git
 
 
 ## 项目截图
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154701.png)
-![分类](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154702.png)
-![热销商品](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154703.png)
-![新品](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154704.png)
-![商品详情](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154705.png)
-![购物车](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154706.png)
-![后台-商品管理](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200327154707.png)
+![首页](../../public/oldPicturesFromGitee/blog20200327154701.png)
+![分类](../../public/oldPicturesFromGitee/blog20200327154702.png)
+![热销商品](../../public/oldPicturesFromGitee/blog20200327154703.png)
+![新品](../../public/oldPicturesFromGitee/blog20200327154704.png)
+![商品详情](../../public/oldPicturesFromGitee/blog20200327154705.png)
+![购物车](../../public/oldPicturesFromGitee/blog20200327154706.png)
+![后台-商品管理](../../public/oldPicturesFromGitee/blog20200327154707.png)
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
 - **若通过gitee地址无法下载该项目或无法正常运行，可私信我，本人免费协助。**
@@ -98,4 +98,4 @@ https://gitee.com/PositiveMumu/CakesShop.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)

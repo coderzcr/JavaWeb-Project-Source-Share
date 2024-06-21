@@ -56,12 +56,12 @@ https://gitee.com/nanpingping/jsp-blog.git
 
 
 ## 项目截图
-![主页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200325162801.png)
-![博客首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200325162802.png)
-![工程页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200325162803.png)
-![联系我](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200325162804.png)
-![控制台登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200325162805.png)
-![控制台首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200325162806.png)
+![主页](../../public/oldPicturesFromGitee/blog20200325162801.png)
+![博客首页](../../public/oldPicturesFromGitee/blog20200325162802.png)
+![工程页](../../public/oldPicturesFromGitee/blog20200325162803.png)
+![联系我](../../public/oldPicturesFromGitee/blog20200325162804.png)
+![控制台登录](../../public/oldPicturesFromGitee/blog20200325162805.png)
+![控制台首页](../../public/oldPicturesFromGitee/blog20200325162806.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -79,5 +79,5 @@ https://gitee.com/nanpingping/jsp-blog.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 

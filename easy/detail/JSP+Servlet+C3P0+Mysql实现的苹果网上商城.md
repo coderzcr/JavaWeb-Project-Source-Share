@@ -35,7 +35,7 @@ tomcat版本：9.0.33（个人测试使用）
 
 ## 本地运行
 
-> 若有疑惑可查看[视频版本](https://zhuanlan.zhihu.com/p/120925119)。视频版本中为了加快下载速度，已将github仓库复制到gitee上。[查看视频 GitHub下载慢怎么办？](http://coderzcr.gitee.io/sensor-java-picture/pictures/GitHub下载慢怎么办？.mp4)
+> 若有疑惑可查看[视频版本](https://zhuanlan.zhihu.com/p/120925119)。视频版本中为了加快下载速度，已将github仓库复制到gitee上。[查看视频 GitHub下载慢怎么办？](../../public/oldPicturesFromGitee/GitHub下载慢怎么办？.mp4)
 
 1.下载zip直接解压或安装git后执行克隆命令 
 
@@ -65,12 +65,12 @@ https://github.com/gpengDemo/Estore.git
 
 
 ## 项目截图
-![注册](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200330144801.png)
-![首页1](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200330144802.png)
-![首页2](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200330144803.png)
-![首页3](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200330144804.png)
-![详情页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200330144805.png)
-![购物车](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200330144806.png)
+![注册](../../public/oldPicturesFromGitee/blog20200330144801.png)
+![首页1](../../public/oldPicturesFromGitee/blog20200330144802.png)
+![首页2](../../public/oldPicturesFromGitee/blog20200330144803.png)
+![首页3](../../public/oldPicturesFromGitee/blog20200330144804.png)
+![详情页](../../public/oldPicturesFromGitee/blog20200330144805.png)
+![购物车](../../public/oldPicturesFromGitee/blog20200330144806.png)
 
 ## 声明
 - 该项目收集于github，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -92,5 +92,5 @@ https://github.com/gpengDemo/Estore.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 

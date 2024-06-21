@@ -34,9 +34,9 @@ tomcat版本：8.5.34（个人测试使用）
 ## 本地运行
 
 ### Eclipse环境准备
-1.[eclipse新增jdk](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
+1.[eclipse新增jdk](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Ejdk.mp4)
 
-2.[eclipse新增tomcat](http://coderzcr.gitee.io/sensor-java-picture/pictures/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
+2.[eclipse新增tomcat](../../public/oldPicturesFromGitee/Eclipse%E6%96%B0%E5%A2%9Etomcat.mp4)
 
 ### 导入项目
 
@@ -65,11 +65,11 @@ git clone https://gitee.com/wishwzp/Diary.git
 
 
 ## 项目截图
-![登录](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200511141601.png)
-![首页](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200511141602.png)
-![写日记](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200511141603.png)
-![日记类别列表](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200511141604.png)
-![日记信息](http://coderzcr.gitee.io/sensor-java-picture/pictures/blog20200511141605.png)
+![登录](../../public/oldPicturesFromGitee/blog20200511141601.png)
+![首页](../../public/oldPicturesFromGitee/blog20200511141602.png)
+![写日记](../../public/oldPicturesFromGitee/blog20200511141603.png)
+![日记类别列表](../../public/oldPicturesFromGitee/blog20200511141604.png)
+![日记信息](../../public/oldPicturesFromGitee/blog20200511141605.png)
 
 ## 声明
 - 该项目收集于gitee，本人只是代为说明使用技术、注意点及启动方式，帮助大家进行学习交流。
@@ -91,6 +91,6 @@ git clone https://gitee.com/wishwzp/Diary.git
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-![](http://coderzcr.gitee.io/sensor-java-picture/pictures/qrcode.gif)
+![](../../public/oldPicturesFromGitee/qrcode.gif)
 
 
