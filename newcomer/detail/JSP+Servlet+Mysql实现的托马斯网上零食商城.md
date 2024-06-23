@@ -135,4 +135,4 @@ PS:若上述地址无法访问，访问[https://github.com/coderzcr/JavaWeb-Proj
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
 
-![](https://github.com/coderzcr/JavaWeb-Project-Source-Share/raw/master/public/picture/1718932338935FE4341CDFE56F733.gif)
+![](../../public/picture/1718932338935FE4341CDFE56F733.gif)
