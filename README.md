@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/github/stars/coderzcr/JavaWeb-Project-Source-Share?style=for-the-badge&logo=github&color=orange" alt="star"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-critical?style=for-the-badge" alt="公众号"></a>
+  <a href="#微信交流"><img src="https://img.shields.io/badge/微信-技术交流群-success?style=for-the-badge" alt="微信"></a>
 </p>
 
 
@@ -17,11 +18,18 @@ Hello！我是张有路，一个拥有 9 年经验的 Java 后端开发者。
 
 本仓库旨在分享基于 **Servlet、SSH、SSM、SpringBoot、SpringCloud** 等流行技术实现的 JavaWeb 项目源码。每个项目都经过验证，确保可正常运行，并提供详细的技术说明和难度分级，帮助开发者从入门到精通。
 
-💡 **遇到问题？需要帮助？**
+## 💡 快速开始 | 遇到问题？
 
-关注公众号「**张有路**」，戳我添加个人微信（备注GitHub），加入技术交流群、协助项目启动、源码查找、代码定制。
+**👉 强烈建议先关注公众号「张有路」**，戳我获取个人微信，获取：
+- 🚀 ​​**答疑秒回**：项目部署、代码调试，任何问题直接问
+- 🎯 **精准荐码**：需要什么类型的项目？一句话，我来帮你找
+- 🛠️ **定制开发​**：根据你的想法进行定制化开发
+- 👥 **加入社群**：与2000+开发者共同进步
+
 <center>
-    <img src="public/oldPicturesFromGitee/qrcode.gif" style="width: 100px;">
+  <img src="public/oldPicturesFromGitee/qrcode.gif" style="width: 200px;">
+  <br>
+  <sup>扫码关注，解决90%项目启动问题</sup>
 </center>
 
 ## 🎯 创建原因
