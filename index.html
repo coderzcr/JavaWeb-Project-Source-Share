@@ -39,7 +39,19 @@
   <div id="app"></div>
   <script>
     // 动态设置basePath，适配本地开发和GitHub Pages部署
-    const isGitHubPages = window.location.hostname.endsWith('github.io');
+    // 改进GitHub Pages环境检测逻辑
+    const isGitHubPages = window.location.hostname.includes('github.io') && 
+                         window.location.pathname.includes('/JavaWeb-Project-Source-Share/');
+    
+    // 记录环境信息用于调试
+    console.log('[Docsify配置] 当前环境:', window.location.hostname);
+    console.log('[Docsify配置] 路径:', window.location.pathname);
+    console.log('[Docsify配置] 识别为GitHub Pages:', isGitHubPages);
+    
+    // 确定基础路径
+    const basePath = isGitHubPages ? '/JavaWeb-Project-Source-Share/' : './';
+    console.log('[Docsify配置] 使用basePath:', basePath);
+    
     window.$docsify = {
       name: 'JavaWeb项目源码库',
       repo: 'coderzcr/JavaWeb-Project-Source-Share',
@@ -47,13 +59,24 @@
       subMaxLevel: 0,
       auto2top: true,
       coverpage: true,
-      basePath: isGitHubPages ? '/JavaWeb-Project-Source-Share/' : './',
+      basePath: basePath,
       homepage: 'README.md',
       relativePath: true,  // 启用相对路径处理
       alias: {
-        // 为不同环境的路径提供别名映射
+        // 增强别名映射，确保所有可能的文件路径都能正确解析
+        '/JavaWeb-Project-Source-Share/': '/',
+        '/JavaWeb-Project-Source-Share/_sidebar.md': '/_sidebar.md',
+        '/JavaWeb-Project-Source-Share/_coverpage.md': '/_coverpage.md',
+        '/JavaWeb-Project-Source-Share/README.md': '/README.md',
+        '/JavaWeb-Project-Source-Share/_404.md': '/_404.md',
         '/.*/_sidebar.md': '/_sidebar.md',
-        '/.*/_coverpage.md': '/_coverpage.md'
+        '/.*/_coverpage.md': '/_coverpage.md',
+        // 为各级别目录添加别名
+        '/newcomer/.*': '/newcomer/$1',
+        '/easy/.*': '/easy/$1',
+        '/medium/.*': '/medium/$1',
+        '/difficult/.*': '/difficult/$1',
+        '/expert/.*': '/expert/$1'
       },
       search: {
         maxAge: 86400000,
