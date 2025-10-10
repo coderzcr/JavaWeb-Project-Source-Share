@@ -289,10 +289,69 @@
             console.log('[目录插件] 点击目录项，滚动到:', heading.id);
             const target = document.getElementById(heading.id);
             if (target) {
+              // 高级滚动定位算法，确保标题准确显示在理想位置
+              
+              // 获取标题级别
+              const level = parseInt(heading.tagName.substring(1));
+              
+              // 计算视口位置（调整为视口中心位置）
+              const viewportHeight = window.innerHeight;
+              const idealViewportPosition = viewportHeight * 0.5; // 设置为0.5，让标题在视口中居中显示            
+              // 获取目标元素在视口中的位置
+              const targetRect = target.getBoundingClientRect();
+              
+              // 计算当前滚动位置
+              const currentScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+              
+              // 根据标题级别调整偏移量
+              let levelOffset = 0;
+              if (level === 1) levelOffset = 30;
+              else if (level === 2) levelOffset = 20;
+              else if (level === 3) levelOffset = 10;
+              else levelOffset = 5;
+              
+              // 计算最终滚动位置
+              const targetScrollTop = currentScrollTop + targetRect.top - idealViewportPosition - levelOffset;
+              
+              console.log(`[目录插件] 滚动计算 - 级别: ${level}, 当前滚动: ${currentScrollTop}, 目标偏移: ${targetRect.top}, 理想位置: ${idealViewportPosition}, 最终位置: ${targetScrollTop}`);
+              
+              // 执行平滑滚动
               window.scrollTo({
-                top: target.offsetTop - 100,
+                top: Math.max(0, targetScrollTop), // 确保不小于0
                 behavior: 'smooth'
               });
+              
+              // 滚动完成后的微调逻辑
+              // 平滑滚动完成后（约800ms后）检查实际位置并微调，确保居中
+              setTimeout(() => {
+                // 再次获取目标元素的位置
+                const newTargetRect = target.getBoundingClientRect();
+                const newScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                
+                // 计算实际位置与理想位置的差值
+                const positionDiff = newTargetRect.top - idealViewportPosition;
+                
+                // 如果差值超过阈值（3px），进行微调
+                if (Math.abs(positionDiff) > 3) {
+                  console.log(`[目录插件] 微调滚动位置 - 差值: ${positionDiff}`);
+                  // 微调时使用非平滑滚动以避免抖动
+                  window.scrollTo({
+                    top: newScrollTop - positionDiff,
+                    behavior: 'auto'
+                  });
+                }
+              }, 800); // 增加延迟时间，确保滚动完全完成
+              
+              // 高亮当前活动项
+              setTimeout(() => {
+                const allLinks = document.querySelectorAll('.article-toc a');
+                allLinks.forEach(a => {
+                  a.style.backgroundColor = 'transparent';
+                  a.style.color = '#555';
+                });
+                this.style.backgroundColor = 'rgba(66, 185, 131, 0.1)';
+                this.style.color = '#42b983';
+              }, 100);
             }
           };
           
@@ -380,15 +439,24 @@
         setTimeout(createTableOfContents, 100);
       });
       
-      // 尝试访问docsify的钩子系统
-      if (window.$docsify && window.$docsify.hooks) {
-        console.log('[目录插件] 成功访问docsify钩子系统');
-        window.$docsify.hooks.doneEach(function() {
-          console.log('[目录插件] docsify doneEach钩子触发，生成目录');
-          createTableOfContents();
-        });
-      } else {
-        console.log('[目录插件] 无法访问docsify钩子系统，使用备选方案');
+      // 尝试安全地访问docsify的钩子系统
+      try {
+        if (window.$docsify && window.$docsify.hooks && typeof window.$docsify.hooks === 'object') {
+          console.log('[目录插件] 成功访问docsify钩子系统');
+          // 使用安全的方式设置钩子
+          if (typeof window.$docsify.hooks.doneEach === 'function') {
+            window.$docsify.hooks.doneEach(function() {
+              console.log('[目录插件] docsify doneEach钩子触发，生成目录');
+              createTableOfContents();
+            });
+          } else {
+            console.log('[目录插件] doneEach钩子不可用，使用备选方案');
+          }
+        } else {
+          console.log('[目录插件] 无法访问docsify钩子系统，使用备选方案');
+        }
+      } catch (error) {
+        console.warn('[目录插件] 访问docsify钩子时出错:', error);
       }
     }
     
