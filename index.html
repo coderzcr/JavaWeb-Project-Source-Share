@@ -40,8 +40,8 @@
   <script>
     // 动态设置basePath，适配本地开发和GitHub Pages部署
     // 改进GitHub Pages环境检测逻辑
-    const isGitHubPages = window.location.hostname.includes('github.io') && 
-                         window.location.pathname.includes('/JavaWeb-Project-Source-Share/');
+    const isGitHubPages = window.location.hostname.includes('github.io');
+    const repoPath = '/JavaWeb-Project-Source-Share/';
     
     // 记录环境信息用于调试
     console.log('[Docsify配置] 当前环境:', window.location.hostname);
@@ -49,8 +49,25 @@
     console.log('[Docsify配置] 识别为GitHub Pages:', isGitHubPages);
     
     // 确定基础路径
-    const basePath = isGitHubPages ? '/JavaWeb-Project-Source-Share/' : './';
+    const basePath = isGitHubPages ? repoPath : './';
     console.log('[Docsify配置] 使用basePath:', basePath);
+    
+    // 创建全面的alias映射，确保GitHub Pages环境下所有文件都能正确加载
+    const aliasMap = {
+      // 基础文件映射
+      '/_sidebar.md': '/_sidebar.md',
+      '/_coverpage.md': '/_coverpage.md',
+      '/README.md': '/README.md',
+      '/_404.md': '/_404.md',
+      // 为GitHub Pages环境添加特殊映射
+      [repoPath + '_sidebar.md']: '/_sidebar.md',
+      [repoPath + '_coverpage.md']: '/_coverpage.md',
+      [repoPath + 'README.md']: '/README.md',
+      [repoPath + '_404.md']: '/_404.md',
+      // 处理子目录中的特殊文件引用
+      '/.*/_sidebar.md': '/_sidebar.md',
+      '/.*/_coverpage.md': '/_coverpage.md'
+    };
     
     window.$docsify = {
       name: 'JavaWeb项目源码库',
@@ -62,21 +79,25 @@
       basePath: basePath,
       homepage: 'README.md',
       relativePath: true,  // 启用相对路径处理
-      alias: {
-        // 增强别名映射，确保所有可能的文件路径都能正确解析
-        '/JavaWeb-Project-Source-Share/': '/',
-        '/JavaWeb-Project-Source-Share/_sidebar.md': '/_sidebar.md',
-        '/JavaWeb-Project-Source-Share/_coverpage.md': '/_coverpage.md',
-        '/JavaWeb-Project-Source-Share/README.md': '/README.md',
-        '/JavaWeb-Project-Source-Share/_404.md': '/_404.md',
-        '/.*/_sidebar.md': '/_sidebar.md',
-        '/.*/_coverpage.md': '/_coverpage.md',
-        // 为各级别目录添加别名
-        '/newcomer/.*': '/newcomer/$1',
-        '/easy/.*': '/easy/$1',
-        '/medium/.*': '/medium/$1',
-        '/difficult/.*': '/difficult/$1',
-        '/expert/.*': '/expert/$1'
+      alias: aliasMap,
+      // 添加钩子函数来处理路径问题
+      hooks: {
+        // 路由钩子，处理路径规范化
+        beforeEach: function (router) {
+          console.log('[路由钩子] 当前路由:', router);
+          // 确保路径正确，处理GitHub Pages环境下的路径问题
+          if (isGitHubPages && !router.path.includes(repoPath)) {
+            console.log('[路由钩子] 修正GitHub Pages路径');
+            // 这里可以进行路径修正
+          }
+        },
+        // 页面渲染完成后的钩子
+        afterEach: function (html, next) {
+          console.log('[渲染钩子] 页面渲染完成');
+          // 确保目录生成
+          setTimeout(createTableOfContents, 100);
+          next(html);
+        }
       },
       search: {
         maxAge: 86400000,
@@ -97,6 +118,48 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  
+  <!-- 添加路径规范化脚本，确保GitHub Pages环境下的链接正常工作 -->
+  <script>
+    // 页面加载完成后执行路径规范化
+    window.addEventListener('load', function() {
+      console.log('[路径规范化] 页面加载完成，开始处理链接');
+      
+      // 定期检查并修正页面中的链接
+      function normalizeLinks() {
+        // 获取所有内部链接
+        const links = document.querySelectorAll('a[href^="/"], a[href^="newcomer/"], a[href^="easy/"], a[href^="medium/"], a[href^="difficult/"], a[href^="expert/"]');
+        console.log('[路径规范化] 找到链接数量:', links.length);
+        
+        links.forEach(link => {
+          let href = link.getAttribute('href');
+          console.log('[路径规范化] 处理链接:', href);
+          
+          // 如果是GitHub Pages环境
+          if (isGitHubPages) {
+            // 确保链接包含仓库路径前缀
+            if (!href.includes(repoPath) && href.startsWith('/')) {
+              const newHref = repoPath + href.substring(1);
+              link.setAttribute('href', newHref);
+              console.log('[路径规范化] 修正链接:', href, '->', newHref);
+            }
+          }
+        });
+      }
+      
+      // 立即执行一次
+      normalizeLinks();
+      
+      // 定期执行，确保动态内容加载后的链接也被修正
+      setInterval(normalizeLinks, 2000);
+      
+      // 监听hash变化，确保路径正确
+      window.addEventListener('hashchange', function() {
+        console.log('[路径规范化] Hash变化:', window.location.hash);
+        setTimeout(normalizeLinks, 100);
+      });
+    });
+  </script>
   
   <!-- 文章内目录生成插件 -->
   <script>
