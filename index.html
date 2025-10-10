@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>JavaWeb项目源码库 | 从零到架构师一站搞定</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="超全JavaWeb项目源码库，9年经验Java专家亲选，100+可运行项目，持续更新维护">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #42b983;
+    }
+    .sidebar-nav li {
+      margin: 6px 0;
+    }
+    .markdown-section {
+      max-width: 900px;
+    }
+    .markdown-section code {
+      color: #e96900;
+    }
+    .app-name-link img {
+      max-width: 80%;
+    }
+    .cover-main h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    .cover-main blockquote {
+      border-left: 4px solid var(--theme-color);
+    }
+    .markdown-section h2 {
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'JavaWeb项目源码库',
+      repo: 'coderzcr/JavaWeb-Project-Source-Share',
+      loadSidebar: true,
+      subMaxLevel: 0,
+      auto2top: true,
+      coverpage: true,
+      basePath: './',
+      relativePath: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '没有找到结果',
+        depth: 6,
+      },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  
+  <!-- 文章内目录生成插件 -->
+  <script>
+    // 简化的目录生成函数
+    function createTableOfContents() {
+      console.log('[目录插件] 尝试生成文章内目录');
+      
+      // 直接操作DOM
+      setTimeout(function() {
+        // 查找内容区域
+        const content = document.querySelector('.markdown-section');
+        if (!content) {
+          console.log('[目录插件] 未找到内容区域，稍后重试');
+          return false;
+        }
+        
+        // 移除可能存在的旧目录
+        const oldToc = document.querySelector('.article-toc');
+        if (oldToc) {
+          console.log('[目录插件] 移除旧目录');
+          oldToc.remove();
+        }
+        
+        // 获取所有标题
+        const headings = content.querySelectorAll('h1, h2');
+        console.log('[目录插件] 找到标题数量:', headings.length);
+        
+        if (headings.length === 0) {
+          console.log('[目录插件] 没有找到标题，不生成目录');
+          return false;
+        }
+        
+        // 创建美观的目录容器
+        const tocContainer = document.createElement('div');
+        tocContainer.className = 'article-toc';
+        
+        // 使用新的美观样式
+        tocContainer.style.cssText = `
+          background-color: #f8f9fa;
+          border-radius: 12px;
+          padding: 25px;
+          margin: 30px 0;
+          box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+          position: relative;
+          z-index: 100;
+          border: 1px solid #eaecef;
+        `;
+        
+        // 创建标题和列表
+        tocContainer.innerHTML = `
+          <h2 style="
+            margin-top: 0;
+            text-align: center;
+            color: #333;
+            font-size: 18px;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid #42b983;
+            font-weight: 600;
+          ">文章目录</h2>
+          <ul style="
+            list-style-type: none;
+            padding-left: 0;
+            margin: 0;
+          "></ul>
+        `;
+        
+        const list = tocContainer.querySelector('ul');
+        
+        // 为每个标题创建目录项
+        headings.forEach((heading, index) => {
+          // 确保标题有ID
+          if (!heading.id) {
+            heading.id = 'toc-' + Date.now() + '-' + index;
+            console.log('[目录插件] 为标题设置ID:', heading.id);
+          }
+          
+          const listItem = document.createElement('li');
+          
+          // 根据标题级别设置样式
+          if (heading.tagName === 'H1') {
+            listItem.style.cssText = `
+              font-weight: bold;
+              font-size: 16px;
+              margin: 12px 0;
+              padding-left: 0;
+            `;
+          } else if (heading.tagName === 'H2') {
+            listItem.style.cssText = `
+              font-weight: 500;
+              font-size: 14px;
+              margin: 8px 0;
+              padding-left: 15px;
+            `;
+          }
+          
+          // 创建链接
+          const link = document.createElement('a');
+          link.href = '#' + heading.id;
+          link.textContent = heading.textContent.trim();
+          link.style.cssText = `
+            display: block;
+            padding: 10px 15px;
+            text-decoration: none !important;
+            color: #555;
+            border-radius: 6px;
+            transition: all 0.25s ease;
+            background-color: transparent;
+          `;
+          
+          // 悬停效果
+          link.onmouseover = function() {
+            this.style.backgroundColor = 'rgba(66, 185, 131, 0.1)';
+            this.style.color = '#42b983';
+            this.style.paddingLeft = '20px';
+          };
+          
+          link.onmouseout = function() {
+            this.style.backgroundColor = 'transparent';
+            this.style.color = '#555';
+            this.style.paddingLeft = '15px';
+          };
+          
+          // 点击事件 - 平滑滚动
+          link.onclick = function(e) {
+            e.preventDefault();
+            console.log('[目录插件] 点击目录项，滚动到:', heading.id);
+            const target = document.getElementById(heading.id);
+            if (target) {
+              window.scrollTo({
+                top: target.offsetTop - 100,
+                behavior: 'smooth'
+              });
+            }
+          };
+          
+          listItem.appendChild(link);
+          list.appendChild(listItem);
+        });
+        
+        // 将目录添加到内容区域的最前面
+        content.insertBefore(tocContainer, content.firstChild);
+        console.log('[目录插件] 目录已成功添加到页面');
+        return true;
+      }, 0);
+    }
+    
+    // 核心: 在页面加载完成后设置定时器不断检查
+    window.addEventListener('DOMContentLoaded', function() {
+      console.log('[目录插件] 页面DOM加载完成');
+      
+      // 立即尝试一次
+      createTableOfContents();
+      
+      // 设置定时器定期检查，确保在docsify动态加载内容后也能生成目录
+      let checkTimer = setInterval(function() {
+        const content = document.querySelector('.markdown-section');
+        const tocExists = document.querySelector('.article-toc');
+        
+        if (content && !tocExists) {
+          console.log('[目录插件] 定时器检测到内容区域，尝试生成目录');
+          const success = createTableOfContents();
+          if (success) {
+            clearInterval(checkTimer);
+            console.log('[目录插件] 目录生成成功，清除定时器');
+          }
+        } else if (tocExists) {
+          // 如果目录已经存在，清除定时器
+          clearInterval(checkTimer);
+          console.log('[目录插件] 目录已存在，清除定时器');
+        }
+      }, 500); // 每500毫秒检查一次
+      
+      // 设置超时，避免无限循环
+      setTimeout(function() {
+        clearInterval(checkTimer);
+        console.log('[目录插件] 定时器超时，停止检查');
+      }, 10000); // 10秒后超时
+    });
+    
+    // 添加键盘快捷键，按T键也可以手动生成目录
+    document.addEventListener('keydown', function(e) {
+      // 按下T键（非输入框中）
+      if (e.key === 't' && !['INPUT', 'TEXTAREA'].includes(e.target.tagName)) {
+        e.preventDefault();
+        console.log('[目录插件] 按下T键，手动生成目录');
+        createTableOfContents();
+      }
+    });
+    
+    // 增强目录检测逻辑，确保在docsify环境中能正常工作
+    function enhanceTocDetection() {
+      console.log('[目录插件] 增强目录检测逻辑已启动');
+      
+      // 监听全局点击事件，当用户导航到新页面时重新生成目录
+      document.addEventListener('click', function(e) {
+        // 检查是否点击了导航链接
+        const navLink = e.target.closest('.sidebar-nav a, .pagination-item a');
+        if (navLink) {
+          console.log('[目录插件] 检测到导航点击，将在页面更新后重新生成目录');
+          setTimeout(() => {
+            const checkNavTimer = setInterval(() => {
+              const content = document.querySelector('.markdown-section');
+              if (content) {
+                createTableOfContents();
+                clearInterval(checkNavTimer);
+              }
+            }, 100);
+            
+            setTimeout(() => clearInterval(checkNavTimer), 3000);
+          }, 200);
+        }
+      });
+      
+      // 监听URL变化（hash变化），因为docsify使用hash路由
+      window.addEventListener('hashchange', function() {
+        console.log('[目录插件] 检测到URL hash变化，尝试重新生成目录');
+        setTimeout(createTableOfContents, 100);
+      });
+      
+      // 尝试访问docsify的钩子系统
+      if (window.$docsify && window.$docsify.hooks) {
+        console.log('[目录插件] 成功访问docsify钩子系统');
+        window.$docsify.hooks.doneEach(function() {
+          console.log('[目录插件] docsify doneEach钩子触发，生成目录');
+          createTableOfContents();
+        });
+      } else {
+        console.log('[目录插件] 无法访问docsify钩子系统，使用备选方案');
+      }
+    }
+    
+    // 启动增强的检测逻辑
+    enhanceTocDetection();
+  </script>
+</body>

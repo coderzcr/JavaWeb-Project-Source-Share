@@ -1,16 +1,19 @@
+# JavaWeb项目源码库
+
 <p align="center">
 <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share" target="_blank">
   <img src="public/oldPicturesFromGitee/zcr's blog.png" width="30%"/>
 </a>
 </p>
+
 <h1 align="center">🚀 超全JavaWeb项目源码库 | 从零到架构师一站搞定 🚀</h1>
 <p align="center"><b>9年经验Java专家亲选 | 100+可运行项目 | 持续更新维护</b></p>
+
 <p align="center">
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/github/stars/coderzcr/JavaWeb-Project-Source-Share?style=for-the-badge&logo=github&color=orange" alt="star"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-critical?style=for-the-badge" alt="公众号"></a>
   <a href="#微信交流"><img src="https://img.shields.io/badge/微信-技术交流群-success?style=for-the-badge" alt="微信"></a>
 </p>
-
 
 ## 📖 前言
 
@@ -23,14 +26,14 @@ Hello！我是张有路，一个拥有 9 年经验的 Java 后端开发者。
 **👉 强烈建议先关注公众号「张有路」**，获取个人微信，获取：
 - 🚀 ​​**答疑秒回**：项目部署、代码调试，任何问题直接问
 - 🎯 **精准荐码**：需要什么类型的项目？一句话，我来帮你找
-- 🛠️ **定制开发​**：根据你的想法进行定制化开发
+- 🛠️ **定制开发**：根据你的想法进行定制化开发
 - 👥 **加入社群**：与2000+开发者共同进步
 
-<center>
+<p align="center">
   <img src="public/oldPicturesFromGitee/qrcode.gif" style="width: 200px;">
   <br>
   <sup>扫码关注，解决90%项目启动问题</sup>
-</center>
+</p>
 
 ## 🎯 创建原因
 
@@ -59,31 +62,31 @@ Hello！我是张有路，一个拥有 9 年经验的 Java 后端开发者。
 
 ## 📖 项目导航（按难度选择）
 
-### 👶 新手入门(★☆☆☆☆) [查看所有新手项目↗](newcomer/newcomer.md)
+### 👶 新手入门(★☆☆☆☆) [查看所有新手项目](newcomer/newcomer.md)
 > 适合Java基础入门，了解基本SQL语法的初学者
 - **技术栈**：JSP+Servlet+JDBC+MySQL
 - **学习目标**：掌握Web项目基础结构，Servlet开发，数据库操作
 - **推荐项目**：学生管理系统、网上书城、个人日记本系统
 
-### 📘 简单进阶(★★☆☆☆) [查看所有简单项目↗](easy/easy.md)
+### 📘 简单进阶(★★☆☆☆) [查看所有简单项目](easy/easy.md)
 > 掌握基础JavaWeb开发，了解连接池技术
 - **技术栈**：增加数据库连接池(c3p0、DBCP)、Maven管理
 - **学习目标**：学习连接池使用，项目优化思想，Maven基础
 - **推荐项目**：图书馆管理系统、网上蛋糕店、电影网站
 
-### 💪 中级开发(★★★☆☆) [查看所有中级项目↗](medium/medium.md)
+### 💪 中级开发(★★★☆☆) [查看所有中级项目](medium/medium.md)
 > 熟悉JavaWeb开发，想学习主流框架
 - **技术栈**：SSH、SSM、SpringBoot、权限控制、缓存
 - **学习目标**：掌握主流框架，分层架构设计，企业级开发
 - **推荐项目**：校园宿舍管理系统、仿天猫网站、酒店预订系统
 
-### 🧠 高级应用(★★★★☆) [查看所有高级项目↗](difficult/difficult.md)
+### 🧠 高级应用(★★★★☆) [查看所有高级项目](difficult/difficult.md)
 > 有一定项目经验，想提升技术广度
 - **技术栈**：前后端分离(Vue+ElementUI)、Redis、消息队列
 - **学习目标**：前后端分离开发，分布式缓存，高并发处理
 - **推荐项目**：微人事、在线音乐网站、校园招聘系统
 
-### 🏆 专家级(★★★★★) [查看所有专家项目↗](expert/expert.md)
+### 🏆 专家级(★★★★★) [查看所有专家项目](expert/expert.md)
 > 有丰富项目经验，学习微服务架构
 - **技术栈**：SpringCloud微服务、Nacos、Sentinel、Gateway
 - **学习目标**：微服务架构设计，分布式系统原理，云原生
@@ -93,7 +96,6 @@ Hello！我是张有路，一个拥有 9 年经验的 Java 后端开发者。
 
 <div>
   <p>🎁 <b>「张有路」公众号独家福利</b> 🎁</p>
-  
 </div>
 
 关注公众号获取：
