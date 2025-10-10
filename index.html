@@ -38,6 +38,8 @@
 <body>
   <div id="app"></div>
   <script>
+    // 动态设置basePath，适配本地开发和GitHub Pages部署
+    const isGitHubPages = window.location.hostname.endsWith('github.io');
     window.$docsify = {
       name: 'JavaWeb项目源码库',
       repo: 'coderzcr/JavaWeb-Project-Source-Share',
@@ -45,8 +47,8 @@
       subMaxLevel: 0,
       auto2top: true,
       coverpage: true,
-      basePath: './',
-      relativePath: true,
+      basePath: isGitHubPages ? '/JavaWeb-Project-Source-Share/' : './',
+      homepage: isGitHubPages ? 'README.md' : undefined,
       search: {
         maxAge: 86400000,
         paths: 'auto',
