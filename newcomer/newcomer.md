@@ -31,6 +31,5 @@
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
 
-<center>
-    <img src="../public/oldPicturesFromGitee/qrcode.gif" style="width: 100px;">
-</center>
+![](../public/oldPicturesFromGitee/qrcode.gif)
+

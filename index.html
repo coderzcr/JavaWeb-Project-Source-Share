@@ -119,14 +119,14 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   
-  <!-- 添加路径规范化脚本，确保GitHub Pages环境下的链接正常工作 -->
+  <!-- 添加路径规范化脚本，使用统一的basePath处理所有环境 -->
   <script>
     // 页面加载完成后执行路径规范化
     window.addEventListener('load', function() {
-      console.log('[路径规范化] 页面加载完成，开始处理链接');
+      console.log('[路径规范化] 页面加载完成，开始处理链接和图片');
       
-      // 定期检查并修正页面中的链接
-      function normalizeLinks() {
+      // 定期检查并修正页面中的链接和图片
+      function normalizePaths() {
         // 获取所有内部链接
         const links = document.querySelectorAll('a[href^="/"], a[href^="newcomer/"], a[href^="easy/"], a[href^="medium/"], a[href^="difficult/"], a[href^="expert/"]');
         console.log('[路径规范化] 找到链接数量:', links.length);
@@ -135,28 +135,48 @@
           let href = link.getAttribute('href');
           console.log('[路径规范化] 处理链接:', href);
           
-          // 如果是GitHub Pages环境
-          if (isGitHubPages) {
-            // 确保链接包含仓库路径前缀
-            if (!href.includes(repoPath) && href.startsWith('/')) {
-              const newHref = repoPath + href.substring(1);
-              link.setAttribute('href', newHref);
-              console.log('[路径规范化] 修正链接:', href, '->', newHref);
-            }
+          // 统一使用basePath处理所有链接，无需区分环境
+          if (href.startsWith('/')) {
+            // 对于以/开头的链接，确保使用正确的basePath
+            const newHref = basePath + href.substring(1);
+            link.setAttribute('href', newHref);
+            console.log('[路径规范化] 修正链接:', href, '->', newHref);
+          } else if (['newcomer/', 'easy/', 'medium/', 'difficult/', 'expert/'].some(prefix => href.startsWith(prefix))) {
+            // 对于直接以目录开头的链接，添加basePath前缀
+            const newHref = basePath + href;
+            link.setAttribute('href', newHref);
+            console.log('[路径规范化] 修正相对链接:', href, '->', newHref);
           }
+        });
+        
+        // 处理图片路径，完全依赖basePath，不区分环境
+        const images = document.querySelectorAll('img[src^="../public/"]');
+        console.log('[路径规范化] 找到相对路径图片数量:', images.length);
+        
+        images.forEach(img => {
+          let src = img.getAttribute('src');
+          console.log('[路径规范化] 处理图片路径:', src);
+          
+          // 统一处理：提取public/后的部分，添加到basePath后面
+          // 这样在任何环境下都能正确工作，因为basePath已经根据环境设置好了
+          const imgPath = src.substring(11); // 移除 '../public/' 前缀
+          const normalizedSrc = basePath + 'public/' + imgPath;
+          
+          img.setAttribute('src', normalizedSrc);
+          console.log('[路径规范化] 修正图片路径:', src, '->', normalizedSrc);
         });
       }
       
       // 立即执行一次
-      normalizeLinks();
+      normalizePaths();
       
-      // 定期执行，确保动态内容加载后的链接也被修正
-      setInterval(normalizeLinks, 2000);
+      // 定期执行，确保动态内容加载后的路径也被修正
+      setInterval(normalizePaths, 1000);
       
-      // 监听hash变化，确保路径正确
+      // 监听hash变化，确保页面切换后也能正确处理
       window.addEventListener('hashchange', function() {
         console.log('[路径规范化] Hash变化:', window.location.hash);
-        setTimeout(normalizeLinks, 100);
+        setTimeout(normalizePaths, 100);
       });
     });
   </script>
