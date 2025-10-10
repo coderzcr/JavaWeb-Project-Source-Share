@@ -136,12 +136,13 @@
           console.log('[路径规范化] 处理链接:', href);
           
           // 统一使用basePath处理所有链接，无需区分环境
-          if (href.startsWith('/')) {
+          // 先检查是否已经包含basePath，避免重复添加
+          if (href.startsWith('/') && !href.startsWith(basePath)) {
             // 对于以/开头的链接，确保使用正确的basePath
             const newHref = basePath + href.substring(1);
             link.setAttribute('href', newHref);
             console.log('[路径规范化] 修正链接:', href, '->', newHref);
-          } else if (['newcomer/', 'easy/', 'medium/', 'difficult/', 'expert/'].some(prefix => href.startsWith(prefix))) {
+          } else if (['newcomer/', 'easy/', 'medium/', 'difficult/', 'expert/'].some(prefix => href.startsWith(prefix)) && !href.startsWith(basePath)) {
             // 对于直接以目录开头的链接，添加basePath前缀
             const newHref = basePath + href;
             link.setAttribute('href', newHref);
@@ -157,13 +158,15 @@
           let src = img.getAttribute('src');
           console.log('[路径规范化] 处理图片路径:', src);
           
-          // 统一处理：提取public/后的部分，添加到basePath后面
-          // 这样在任何环境下都能正确工作，因为basePath已经根据环境设置好了
-          const imgPath = src.substring(11); // 移除 '../public/' 前缀
-          const normalizedSrc = basePath + 'public/' + imgPath;
-          
-          img.setAttribute('src', normalizedSrc);
-          console.log('[路径规范化] 修正图片路径:', src, '->', normalizedSrc);
+          // 先检查是否已经处理过，避免重复添加
+          if (src.startsWith('../public/') && !src.startsWith(basePath)) {
+            // 统一处理：提取public/后的部分，添加到basePath后面
+            const imgPath = src.substring(11); // 移除 '../public/' 前缀
+            const normalizedSrc = basePath + 'public/' + imgPath;
+            
+            img.setAttribute('src', normalizedSrc);
+            console.log('[路径规范化] 修正图片路径:', src, '->', normalizedSrc);
+          }
         });
       }
       
