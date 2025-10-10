@@ -13,6 +13,13 @@
     - devops
     - 微服务(基于Spring Cloud实现或istio实现)
     - serverless
+
+## 专家项目列表
+
+|源码编号|源码名称|编辑器|前端关键字|后端关键字|详述|
+|-|-|-|-|-|-|
+|EXP202212101413|小说精品屋|IDEA|html<br>css<br>JavaScript<br>vue<br>ElementUI|SpringBoot<br>SpringCloud<br>nacos<br>Sentinel<br>SpringCloud Gateway<br>SpringBoot Admin<br>Sharding-JDBC<br>mybatis<br>swagger2<br>springSecurity<br>mysql<br>HikariCP<br>maven<br>lombok<br>Redis<br>elasticsearch<br>RabbitMQ|[跳转](preview/EXP202212101413.md)|
+
 ---
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
