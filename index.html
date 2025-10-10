@@ -48,7 +48,13 @@
       auto2top: true,
       coverpage: true,
       basePath: isGitHubPages ? '/JavaWeb-Project-Source-Share/' : './',
-      homepage: isGitHubPages ? 'README.md' : undefined,
+      homepage: 'README.md',
+      relativePath: true,  // 启用相对路径处理
+      alias: {
+        // 为不同环境的路径提供别名映射
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_coverpage.md': '/_coverpage.md'
+      },
       search: {
         maxAge: 86400000,
         paths: 'auto',
