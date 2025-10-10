@@ -4,9 +4,8 @@
 
 我是张有路，山东大汉。
 
-Java后端开发，4年工作经验。
+Java后端开发，9年工作经验。
 
-博客：[coderzcr.top](http://coderzcr.top)
 
 ## 联系我
 
