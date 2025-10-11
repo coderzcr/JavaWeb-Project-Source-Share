@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/coderzcr/JavaWeb-Project-Source-Share"><img src="https://img.shields.io/github/stars/coderzcr/JavaWeb-Project-Source-Share?style=for-the-badge&logo=github&color=orange" alt="star"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-张有路-critical?style=for-the-badge" alt="公众号"></a>
-  <a href="#微信交流"><img src="https://img.shields.io/badge/微信-技术交流群-success?style=for-the-badge" alt="微信"></a>
+  <a href="public/oldPicturesFromGitee/qrcode.gif"><img src="https://img.shields.io/badge/公众号-张有路-critical?style=for-the-badge&logo=wechat" alt="公众号"></a>
+  <a href="https://coderzcr.github.io/JavaWeb-Project-Source-Share/#/"><img src="https://img.shields.io/badge/在线阅读-极佳体验-success?style=for-the-badge&logo=readme" alt="在线阅读"></a>
 </p>
 
 ## 📖 前言
