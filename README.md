@@ -118,6 +118,7 @@ Hello！我是张有路，一个拥有 9 年经验的 Java 后端开发者。
 本仓库收集于Gitee、GitHub等开源平台，仅用于学习交流。如有版权问题，请联系删除。
 
 ---
+![Star History Chart](https://api.star-history.com/svg?repos=coderzcr/JavaWeb-Project-Source-Share&type=Date)
 
 <div align="center">
   <sub>✨ 感谢您的支持！希望这个仓库能帮助您在Java学习之路上走得更远 ✨</sub>
