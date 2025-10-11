@@ -5,5 +5,3 @@
 
 [GitHub](https://github.com/coderzcr/JavaWeb-Project-Source-Share)
 [开始学习](#javaweb项目源码库)
-
-![color](#f0f0f0)
