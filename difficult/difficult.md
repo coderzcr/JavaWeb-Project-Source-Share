@@ -14,7 +14,7 @@
 
 ## 困难项目列表
 
-> 共 **16** 个项目
+> 共 **17** 个项目
 
 | 源码编号 | 源码名称 | 前端技术 | 后端技术 | 详情 |
 | :------- | :------- | :------- | :------- | :--- |
@@ -34,6 +34,7 @@
 | DIF202310141410 | 春松客服 | html、css、JavaScript、JQuery、LayUI | pug4j、SpringBoot、JPA、Redis、ActiveMQ、mysql、maven | [查看详情](preview/DIF202310141410.md) |
 | DIF202510112303 | 酒店客房管理系统 | html、css、JavaScript、JQuery、LayUI、Vue、Element UI、ECharts| SpringBoot、MyBatis-Plus、Shiro、MySQL、maven | [查看详情](preview/DIF202510112303.md) |
 | DIF202510122137 | 学生就业信息管理系统 | html、css、JavaScript、Vue、Element UI、ECharts| SpringBoot、MyBatis-Plus、JWT、MySQL、Redis、maven | [查看详情](preview/DIF202510122137.md) |
+| DIF202510132200 | 流浪动物管理系统 | html、css、JavaScript、Vue、Element UI、ECharts| SpringBoot、MyBatis-Plus、JWT、MySQL、maven | [查看详情](preview/DIF202510132200.md) |
 ---
 
 欢迎关注我的公众号“**张有路**”，原创技术文章第一时间推送。
